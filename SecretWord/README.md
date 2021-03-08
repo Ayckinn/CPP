@@ -3,7 +3,7 @@
 Simple game for 2 players. 
 First player choose a word, second player has to guess it, to help him, the word is displayed in no particular order.
 
-<img width=300px src="https://github.com/Ayckinn/CPP/blob/main/SecretWord/demo.png" />
+<img width=500px src="https://github.com/Ayckinn/CPP/blob/main/SecretWord/demo.png" />
 
 ---
 
