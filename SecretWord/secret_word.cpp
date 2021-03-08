@@ -40,7 +40,7 @@ int main(int argc, char const *argv[])
   	srand(time(0));
 
   	string secretWord, userWord, randomWord;
-  	
+
   	cout << "========================================\n";
   	cout << "= \033[1;35mBIENVENUE DANS LE JEU DU MOT MYSTERE\033[1;m =\n";
   	cout << "========================================\n\n";
@@ -64,7 +64,7 @@ int main(int argc, char const *argv[])
   		cout << "\nRéponse Joueur 2 [" << randomWord << "] : ";
   		cin >> userWord;
 
-  		if(userWord == secretWord) { cout << "\033[1;32m\nBONNE REPONSE !\n\033[1;m"; }
+  		if(userWord == secretWord) { cout << "\033[1;32m\nBONNE REPONSE !\n\n\033[1;m"; }
   		else { cout << "\033[1;31m\nMAUVAISE REPONSE !\n\033[1;m"; }
 
   	} while(userWord != secretWord);
