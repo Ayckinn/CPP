@@ -1,0 +1,37 @@
+# **Moon Weather**
+
+### **HOW TO USE IT**
+```./MoonWeather```
+
+### *FOR RPi Raspberry OS*
+
+1- Install Qt5-default :
+
+```sudo apt install Qt5-default```
+
+2- Compile MoonWeather.pro
+
+``` qmake MoonWeather.pro```
+
+3- Make app
+
+```make```
+
+---
+### **SCREENSHOT**
+<img width=500px src="https://github.com/Ayckinn/CPP/blob/main/MoonWeather/pics/screenshot.png" />
+
+---
+### **CHANGELOG**
+Version 1.0 : March 24' 2021
+
+    - Initial release
+    1. Time
+    2. Date
+    3. City
+    4. Coordinates
+    5. Temperature
+    6. Weather conditions (text mode)
+    7. Wind speed
+    8. Humidity
+    9. Pressure
