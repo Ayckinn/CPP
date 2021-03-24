@@ -3,7 +3,7 @@
 ### **HOW TO USE IT**
 ```./MoonWeather```
 
-### *FOR RPi Raspberry OS*
+*FOR RPi Raspberry OS*
 
 1- Install Qt5-default :
 
@@ -23,7 +23,7 @@
     <img
         src="https://github.com/Ayckinn/CPP/blob/main/MoonWeather/pics/screenshot.png"
         alt="DEMO"
-        style="width:50%">
+        style="width:40%">
 </div>
 
 ---
