@@ -7,7 +7,7 @@
 
 1- Install Qt5-default :
 
-```sudo apt install Qt5-default```
+```sudo apt install qt5-default```
 
 2- Compile MoonWeather.pro
 
@@ -23,7 +23,7 @@
     <img
         src="https://github.com/Ayckinn/CPP/blob/main/MoonWeather/pics/screenshot.png"
         alt="DEMO"
-        style="width:40%">
+        style="width:30%">
 </div>
 
 ---
