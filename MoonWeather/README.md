@@ -19,7 +19,12 @@
 
 ---
 ### **SCREENSHOT**
-<img width=500px src="https://github.com/Ayckinn/CPP/blob/main/MoonWeather/pics/screenshot.png" />
+<div align="center">
+    <img
+        src="https://github.com/Ayckinn/CPP/blob/main/MoonWeather/pics/screenshot.png"
+        alt="DEMO"
+        style="width:50%">
+</div>
 
 ---
 ### **CHANGELOG**
