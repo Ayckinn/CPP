@@ -28,6 +28,14 @@
 
 ---
 ### **CHANGELOG**
+Version 2.0 : March 26' 2021
+
+    - Add _Visibility_ informations
+    - Add new icons
+    - Fix bugs 
+    - Update screenshot
+
+
 Version 1.0 : March 24' 2021
 
     - Initial release
