@@ -34,6 +34,7 @@ class MoonWeather : public QWidget
         void MoonWind(QString picPath, QString color);
         void MoonHumidity(QString picPath, QString color);
         void MoonPressure(QString picPath, QString color);
+        void MoonVisibility(QString picPath, QString color);
 
         void MoonTemperature(QString color);
         void MoonConditions(QString pic1, QString pic2, QString pic3, QString pic4, QString pic5, QString pic6, QString pic7, QString color);
@@ -74,6 +75,9 @@ class MoonWeather : public QWidget
         //================ WIND ===============//
         int wind_kmh = 0;
 
+        //================ WIND ===============//
+        int visibility_km = 0;
+
         //============ JSON REQUEST ===========//
         QNetworkReply *reply;
         QNetworkAccessManager nam;
@@ -82,28 +86,31 @@ class MoonWeather : public QWidget
         QJsonObject JSON_object;
 
         //============== PICS PATH ============//
-        QString mist             = "pics/mist.png";
         //-- DAY MODE
-        QString sun_pic          = "pics/sun.png";
-        QString few_cloudy_day   = "pics/few_cloudy_day.png";
-        QString cloudy_day       = "pics/couldy_day.png";
-        QString full_cloudy_day  = "pics/full_cloudy_day.png";
-        QString light_rain_day   = "pics/lignt_rain_day.png";
-        QString storm_day        = "pics/storm_day.png";
-        QString day_wind_pic     = "pics/wind_day.png";
-        QString day_humidity_pic = "pics/humidity_day.png";
-        QString day_pressure_pic = "pics/pressure_day.png";
+        QString sun_pic            = "pics/sun.png";
+        QString few_cloudy_day     = "pics/few_cloudy_day.png";
+        QString cloudy_day         = "pics/cloudy_day.png";
+        QString full_cloudy_day    = "pics/full_cloudy_day.png";
+        QString light_rain_day     = "pics/light_rain_day.png";
+        QString storm_day          = "pics/storm_day.png";
+        QString day_mist           = "pics/mist_day.png";
+        QString day_wind_pic       = "pics/wind_day.png";
+        QString day_humidity_pic   = "pics/humidity_day.png";
+        QString day_pressure_pic   = "pics/pressure_day.png";
+        QString day_visibility_pic = "pics/visibility_day.png";
 
         //-- NIGHT MODE
-        QString moon_pic           = "pics/moon.png";
-        QString few_cloudy_night   = "pics/few_cloudy_night.png";
-        QString cloudy_night       = "pics/couldy_night.png";
-        QString full_cloudy_night  = "pics/full_cloudy_night.png";
-        QString light_rain_night   = "pics/lignt_rain_night.png";
-        QString storm_night        = "pics/storm_night.png";
-        QString night_wind_pic     = "pics/wind_night.png";
-        QString night_humidity_pic = "pics/humidity_night.png";
-        QString night_pressure_pic = "pics/pressure_night.png";
+        QString moon_pic             = "pics/moon.png";
+        QString few_cloudy_night     = "pics/few_cloudy_night.png";
+        QString cloudy_night         = "pics/cloudy_night.png";
+        QString full_cloudy_night    = "pics/full_cloudy_night.png";
+        QString light_rain_night     = "pics/light_rain_night.png";
+        QString storm_night          = "pics/storm_night.png";
+        QString night_mist           = "pics/mist_night.png";
+        QString night_wind_pic       = "pics/wind_night.png";
+        QString night_humidity_pic   = "pics/humidity_night.png";
+        QString night_pressure_pic   = "pics/pressure_night.png";
+        QString night_visibility_pic = "pics/visibility_night.png";
 
         //============ LABEL COLOR ============//
         QString lime_font    = "color:rgb(0, 255, 0);";

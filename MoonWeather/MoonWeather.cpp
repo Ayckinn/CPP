@@ -28,11 +28,12 @@ void MoonWeather::DayMode()
 
     MoonTemperature(orange_font);
     MoonConditions(sun_pic, few_cloudy_day, cloudy_day, full_cloudy_day,
-                   light_rain_day, storm_day, mist, magenta_font);
+                   light_rain_day, storm_day, day_mist, magenta_font);
 
     MoonWind(day_wind_pic, yellow_font);
     MoonHumidity(day_humidity_pic, yellow_font);
     MoonPressure(day_pressure_pic, yellow_font);
+    MoonVisibility(day_visibility_pic, yellow_font);
 
     MoonCity(white_font);
     MoonLongitude(white_font);
@@ -46,11 +47,12 @@ void MoonWeather::NightMode()
 
     MoonTemperature(gray_font);
     MoonConditions(moon_pic, few_cloudy_night, cloudy_night, full_cloudy_night,
-                   light_rain_night, storm_night, mist, gray_font);
+                   light_rain_night, storm_night, night_mist, gray_font);
 
     MoonWind(night_wind_pic, gray_font);
     MoonHumidity(night_humidity_pic, gray_font);
     MoonPressure(night_pressure_pic, gray_font);
+    MoonVisibility(night_visibility_pic, gray_font);
 
     MoonCity(gray_font);
     MoonLongitude(gray_font);
@@ -150,13 +152,15 @@ void MoonWeather::MoonConditions(QString pic1, QString pic2, QString pic3, QStri
     //-- From this object, get the "description" member, which is a string ==> JSON_object ["description"].toString()
     auto JSON_condition  = JSON_condition_object["description"].toString().toUpper();
 
+    //QString JSON_condition = "BRUME";
+
     ui->conditions_lbl->setText(JSON_condition);
     ui->conditions_lbl->setStyleSheet(color);
 
     if(JSON_condition == "CIEL DÉGAGÉ") { ui->weather_pic->setPixmap(QPixmap(pic1)); }
     if(JSON_condition == "PEU NUAGEUX") { ui->weather_pic->setPixmap(QPixmap(pic2)); }
-    if(JSON_condition == "PARTIELLEMENT NUAGEUX") { ui->weather_pic->setPixmap(QPixmap(pic2)); }
-    if(JSON_condition == "COUVERT") { ui->weather_pic->setPixmap(QPixmap(pic3)); }
+    if(JSON_condition == "PARTIELLEMENT NUAGEUX") { ui->weather_pic->setPixmap(QPixmap(pic3)); }
+    if(JSON_condition == "COUVERT") { ui->weather_pic->setPixmap(QPixmap(pic4)); }
     if(JSON_condition == "NUAGEUX") { ui->weather_pic->setPixmap(QPixmap(pic4)); }
     if(JSON_condition == "LÉGÈRE PLUIE") { ui->weather_pic->setPixmap(QPixmap(pic5)); }
     if(JSON_condition == "ORAGE") { ui->weather_pic->setPixmap(QPixmap(pic6)); }
@@ -208,9 +212,8 @@ void MoonWeather::MoonWind(QString picPath, QString color)
 
     wind_kmh = (JSON_wind_value * 3600 / 1000);
 
-    ui->wind_speed_lbl->setText(QString::number(wind_kmh) + " Km/h");
-    ui->wind_speed_lbl->setStyleSheet(color);
     ui->wind_pic_lbl->setPixmap(QPixmap(picPath));
+    ui->wind_speed_lbl->setText(QString::number(wind_kmh) + " Km/h");
     ui->wind_speed_lbl->setStyleSheet(color);
 
     //qDebug() << "Wind speed : " << wind_kmh << "Km/h";
@@ -222,9 +225,8 @@ void MoonWeather::MoonHumidity(QString picPath, QString color)
     auto JSON_humidity = JSON_humidity_object["main"].toObject();
     auto JSON_humidity_value = JSON_humidity["humidity"].toInt();
 
-    ui->humidity_percent_lbl->setText(QString::number(JSON_humidity_value) + "%");
-    ui->humidity_percent_lbl->setStyleSheet(color);
     ui->humidity_pic_lbl->setPixmap(QPixmap(picPath));
+    ui->humidity_percent_lbl->setText(QString::number(JSON_humidity_value) + " %");
     ui->humidity_percent_lbl->setStyleSheet(color);
 
     //qDebug() << "HUMIDITY : " << JSON_humidity_value << "%";
@@ -236,12 +238,24 @@ void MoonWeather::MoonPressure(QString picPath, QString color)
     auto JSON_pressure = JSON_pressure_object["main"].toObject();
     auto JSON_pressure_value = JSON_pressure["pressure"].toInt();
 
-    ui->pressure_rate_lbl->setText(QString::number(JSON_pressure_value) + " hPa");
-    ui->pressure_rate_lbl->setStyleSheet(color);
     ui->pressure_pic_lbl->setPixmap(QPixmap(picPath));
+    ui->pressure_rate_lbl->setText(QString::number(JSON_pressure_value) + " hPa");
     ui->pressure_rate_lbl->setStyleSheet(color);
 
     //qDebug() << "PRESSURE : " << JSON_pressure_value << "hPa";
 }
 
+void MoonWeather::MoonVisibility(QString picPath, QString color)
+{
+    auto JSON_visibility_object = loadJSONFile.object();
+    auto JSON_visibility_value = JSON_visibility_object["visibility"].toDouble();
+
+    visibility_km = (JSON_visibility_value / 1000);
+
+    ui->visibility_pic_lbl->setPixmap(QPixmap(picPath));
+    ui->visibility_km_lbl ->setText(QString::number(visibility_km) + " Km");
+    ui->visibility_km_lbl->setStyleSheet(color);
+
+    //qDebug() << "VISIBULITY : " << visibility_km << km;
+}
 /*--- TessBarAnn ---*/
