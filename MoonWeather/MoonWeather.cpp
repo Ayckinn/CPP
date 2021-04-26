@@ -152,8 +152,6 @@ void MoonWeather::MoonConditions(QString pic1, QString pic2, QString pic3, QStri
     //-- From this object, get the "description" member, which is a string ==> JSON_object ["description"].toString()
     auto JSON_condition  = JSON_condition_object["description"].toString().toUpper();
 
-    //QString JSON_condition = "BRUME";
-
     ui->conditions_lbl->setText(JSON_condition);
     ui->conditions_lbl->setStyleSheet(color);
 
@@ -244,7 +242,7 @@ void MoonWeather::MoonPressure(QString picPath, QString color)
 
     //qDebug() << "PRESSURE : " << JSON_pressure_value << "hPa";
 }
-
+/*---------------------------- VISIBILTY --------------------------*/
 void MoonWeather::MoonVisibility(QString picPath, QString color)
 {
     auto JSON_visibility_object = loadJSONFile.object();
@@ -256,6 +254,6 @@ void MoonWeather::MoonVisibility(QString picPath, QString color)
     ui->visibility_km_lbl ->setText(QString::number(visibility_km) + " Km");
     ui->visibility_km_lbl->setStyleSheet(color);
 
-    //qDebug() << "VISIBULITY : " << visibility_km << km;
+    //qDebug() << "VISIBILITY : " << visibility_km << km;
 }
 /*--- TessBarAnn ---*/
