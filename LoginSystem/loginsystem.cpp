@@ -8,17 +8,6 @@
     To launch the program : Open terminal ->  choose program directory
     and enter this : ./LoginSystem
 
-   ============================== TODO FOR V3.0 ============================
-    07.10.2021 -> 01. Hide password with '*'
-    01.11.2021 -> 02. Remove folder name & file extention when accounts are displaying
-    10.11.2021 -> 03. Add ID number for user
-    12.11.2021 -> 04. 3 attempts for log to ayckinn, otherwise, user is banned
-    19.11.2021 -> 05. Sort users in [NUMBER OF USERS] alphabetically
-
-   ================================= FIXIT =================================
-    31.10.2021 -> Bug après suppression d'un compte, ne rafraichit pas la liste. 
-                  Il est possible de supprimer un compte déjà supprimé.
-
  * ========================================================================= */
 ////////////////////////////////// LIBRARIES //////////////////////////////////
 //-- STANDARD --//
