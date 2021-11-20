@@ -1,2 +1,2 @@
 # CPP
-All CPP projects
+All CPP projects for Linux.
