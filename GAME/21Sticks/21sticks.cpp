@@ -12,7 +12,7 @@
     - Add 2 humans players mode
 
    ================================= FIXIT =================================
- * ========================================================================= */
+ * -------------------------------------------------------------============ */
 /**
  * FONT COLOR CODE :
  *  - 0;xxm = REGULAR
@@ -58,26 +58,24 @@ void logoBeta()
 /*---------------------------------------------------------------------------*/
 void logoTitle()
 {
-    std::cout << "\n\t\033[1;38m            =========================================\n\t            =\033[1;m";
-    std::cout << "\033[1;33m            21 sticks - v1.0\033[1;m";
-    std::cout << "\033[1;38m           =\n\t            =\033[1;m";
-    std::cout << "\033[1;34m        LINUX VERSION - @Ayckinn\033[1;m";
-    std::cout << "\033[1;38m       =\n\t            =\033[1;m";
-    std::cout << "\033[0;37m  http://github.com/ayckinn/21-sticks \033[0;m";
-    std::cout << "\033[1;38m =\n\t            =========================================\n\033[1;m";
+    std::cout << "\n\t\033[1;37m  ============================================================";
+    std::cout << "\n\t\033[1;37m  =\033[1;33m                     21 STICKS - v1.0                     \033[1;37m=\033[1;m";         
+    std::cout << "\n\t\033[1;37m  =\033[1;34m                 LINUX VERSION - @Ayckinn                 \033[1;37m=\033[1;m";
+    std::cout << "\n\t\033[1;37m  =\033[0;38m  https://github.com/Ayckinn/CPP/tree/main/GAME/21Sticks  \033[1;37m=\033[0;m";
+    std::cout << "\n\t\033[1;37m  ============================================================\n";
 
     return;
 }
 /*---------------------------------------------------------------------------*/
 void rulesOfGame()
 {
-    std::cout << "\033[1;34m\n\t* ============================================================= *\n\t*\033[1;m";
-    std::cout << "\033[1;36m RULES OF THE GAME :                                           \033[1;m";
-    std::cout << "\033[1;34m*\n\t*\033[0;33m 01. There are 21 sticks on the board.                         \033[0;m";
-    std::cout << "\033[1;34m*\n\t*\033[0;33m 02. Each player can take 1, 2 or 3 sticks.                    \033[0;m";
-    std::cout << "\033[1;34m*\n\t*\033[0;33m 03. The player who takes the last stick wins.                 \033[0;m";
-    std::cout << "\033[1;34m*\n\t*\033[0;33m 04. DON'T exceed the number of sticks available on the board. \033[0;m";
-    std::cout << "\033[1;34m*\n\t* ============================================================= *\n\t\033[1;m";
+    std::cout << "\n\t\033[1;34m+ ------------------------------------------------------------- +\033[1;m";
+    std::cout << "\n\t\033[1;34m|\033[1;36m RULES OF THE GAME :                                           \033[1;34m|\033[1;m";
+    std::cout << "\n\t\033[1;34m|\033[0;33m 01. There are 21 sticks on the board.                         \033[1;34m|\033[0;m";
+    std::cout << "\n\t\033[1;34m|\033[0;33m 02. Each player can take 1, 2 or 3 sticks.                    \033[1;34m|\033[0;m";
+    std::cout << "\n\t\033[1;34m|\033[0;33m 03. The player who takes the last stick wins.                 \033[1;34m|\033[0;m";
+    std::cout << "\n\t\033[1;34m|\033[0;33m 04. DON'T exceed the number of sticks available on the board. \033[1;34m|\033[0;m";
+    std::cout << "\n\t\033[1;34m+ ------------------------------------------------------------- +\033[1;m\n";
 
     return;
 }
