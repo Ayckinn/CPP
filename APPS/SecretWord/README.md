@@ -11,7 +11,6 @@ First player choose a word, second player has to guess it, to help him, the word
         alt="DEMO"
         style="width:50%">
 </div>
----
 
 ## Usage
 Run game : ``` ./SecretWord```
