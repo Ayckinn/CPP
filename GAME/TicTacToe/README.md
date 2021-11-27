@@ -9,7 +9,7 @@ For this first basic version, you must play with another player
 ### **SCREENSHOT**
 <div align="center">
     <img
-        src="https://github.com/Ayckinn/CPP/blob/main/TicTacToe/tictactoe.png"
+        src="https://github.com/Ayckinn/CPP/blob/main/GAME/TicTacToe/tictactoe.png"
         alt="DEMO"
         style="width:50%">
 </div>
