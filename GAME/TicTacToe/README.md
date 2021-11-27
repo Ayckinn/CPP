@@ -5,9 +5,14 @@
 
 For this first basic version, you must play with another player
 
-<img width=500px src="https://github.com/Ayckinn/CPP/blob/main/TicTacToe/tictactoe.png" />
-
 ---
+### **SCREENSHOT**
+<div align="center">
+    <img
+        src="https://github.com/Ayckinn/CPP/blob/main/TicTacToe/tictactoe.png"
+        alt="DEMO"
+        style="width:50%">
+</div>
 
 ## Usage
 Launch ```tictactoe``` file :
