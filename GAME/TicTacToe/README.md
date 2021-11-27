@@ -11,7 +11,7 @@ For this first basic version, you must play with another player
     <img
         src="https://github.com/Ayckinn/CPP/blob/main/GAME/TicTacToe/tictactoe.png"
         alt="DEMO"
-        style="width:50%">
+        style="width:40%">
 </div>
 
 ## Usage
