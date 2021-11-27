@@ -5,7 +5,7 @@
 
 For this first basic version, you play against the computer.
 
-<img width=500px src="https://github.com/Ayckinn/CPP/blob/main/TicTacToe/21sticks.png" />
+<img width=500px src="https://github.com/Ayckinn/CPP/blob/main/GAME/21Sticks/21sticks.png" />
 
 ---
 
