@@ -21,7 +21,7 @@
 ### **SCREENSHOT**
 <div align="center">
     <img
-        src="https://github.com/Ayckinn/CPP/blob/main/MoonWeather/pics/screenshot.png"
+        src="https://github.com/Ayckinn/CPP/blob/main/APPS/MoonWeather/pics/screenshot.png"
         alt="DEMO"
         style="width:30%">
 </div>
