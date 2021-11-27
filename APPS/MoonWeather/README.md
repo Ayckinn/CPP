@@ -23,7 +23,7 @@
     <img
         src="https://github.com/Ayckinn/CPP/blob/main/APPS/MoonWeather/pics/screenshot.png"
         alt="DEMO"
-        style="width:30%">
+        style="width:40%">
 </div>
 
 ---
