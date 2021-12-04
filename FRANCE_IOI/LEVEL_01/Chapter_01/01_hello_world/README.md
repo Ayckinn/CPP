@@ -1,5 +1,5 @@
 # HELLO WORLD - C++ Version
-LEVEL 01 -> CHAPTER 01 -> EXERCICE 01
+LEVEL 01 --> CHAPTER 01 --> EXERCICE 01
 
 ---
 ### **SCREENSHOT**
@@ -14,4 +14,4 @@ LEVEL 01 -> CHAPTER 01 -> EXERCICE 01
 ---
 ### **RELEASE**
 
-- December 12' 2020
+- December 04' 2021
