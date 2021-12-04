@@ -1,6 +1,6 @@
 /* =================== DESCRIPTION =================== *
     AUTHOR    : Ayckinn
-    COPYRIGHT : ©2020
+    COPYRIGHT : ©2021
     LANGUAGE  : C++
     LEVEL     : 01
     CHAPTER   : 01
