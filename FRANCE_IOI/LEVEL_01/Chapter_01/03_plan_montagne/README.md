@@ -1,5 +1,5 @@
 # PLAN DE LA MONTAGNE - C++ Version
-LEVEL 01 -> CHAPTER 01 -> EXERCICE 03
+LEVEL 01 --> CHAPTER 01 --> EXERCICE 03
 
 ---
 ### **SCREENSHOT**
@@ -14,4 +14,4 @@ LEVEL 01 -> CHAPTER 01 -> EXERCICE 03
 ---
 ### **RELEASE**
 
-- December 12' 2020
+- December 04' 2021
