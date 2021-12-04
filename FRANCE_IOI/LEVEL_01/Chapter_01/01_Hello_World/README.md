@@ -1,8 +1,7 @@
 # HELLO WORLD - C++ Version
----
-
 LEVEL 01 -> CHAPTER 01 -> EXERCICE 01
 
+---
 ### **SCREENSHOT**
 
 <div align="center">
@@ -12,6 +11,7 @@ LEVEL 01 -> CHAPTER 01 -> EXERCICE 01
         style="width:50%">
 </div>
 
+---
 ### **RELEASE**
 
-December 12' 2020
+*December 12' 2020
