@@ -4,7 +4,7 @@
     LANGUAGE  : C++
     LEVEL     : 01
     CHAPTER   : 02
-    EXERCICE  : 02 - MATHEMATIQUES DE BASE
+    EXERCICE  : 03 - TRANSPORT D'EAU
  * =================================================== */
 
 #include <iostream>
