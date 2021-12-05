@@ -4,7 +4,7 @@
     LANGUAGE  : C++
     LEVEL     : 01
     CHAPTER   : 02
-    EXERCICE  : 08 - MONT KAILASH
+    EXERCICE  : 09 - VENDANGES
  * =================================================== */
 #include <iostream>
 #include "robot.h"
@@ -18,7 +18,7 @@ int main()
         ramasser();
         loop(15)
             droite();
-            
+
         deposer();
         loop(15)
             gauche();
