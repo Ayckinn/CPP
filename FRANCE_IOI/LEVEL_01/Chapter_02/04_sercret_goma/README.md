@@ -1,12 +1,12 @@
-# TRANSPORT D'EAU - C++ Version
-LEVEL 01 --> CHAPTER 02 --> EXERCICE 03
+# LE SECRET DU GOMA - C++ Version
+LEVEL 01 --> CHAPTER 02 --> EXERCICE 04
 
 ---
 ### **SCREENSHOT**
 
 <div align="center">
     <img
-        src="https://github.com/Ayckinn/CPP/blob/main/FRANCE_IOI/LEVEL_01/Chapter_02/03_transport_eau/transport_eau.png"
+        src="https://github.com/Ayckinn/CPP/blob/main/FRANCE_IOI/LEVEL_01/Chapter_02/04_secret_goma/goma.png"
         alt="DEMO"
         style="width:50%">
 </div>
