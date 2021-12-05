@@ -4,13 +4,13 @@
     LANGUAGE  : C++
     LEVEL     : 01
     CHAPTER   : 02
-    EXERCICE  : 04 - LE SECRET DU GOMA
+    EXERCICE  : 05 - SISYPHE
  * =================================================== */
 
 #include <iostream>
 #include "robot.h"
 
-#define loop(turn) for (int i = 0; i < turn; ++i)
+#define loop(repeat) for(int i = 0; i < repeat; i++)
 
 int main()
 {
