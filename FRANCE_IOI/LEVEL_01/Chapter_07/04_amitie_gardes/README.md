@@ -1,4 +1,4 @@
-# AMITIES ENTRE GARDES - C++ Version
+# AMITIE ENTRE GARDES - C++ Version
 LEVEL 01 --> CHAPTER 07 --> EXERCICE 04
 
 ---
@@ -6,7 +6,7 @@ LEVEL 01 --> CHAPTER 07 --> EXERCICE 04
 
 <div align="center">
     <img
-        src="https://github.com/Ayckinn/CPP/blob/main/FRANCE_IOI/LEVEL_01/Chapter_07/04_amities_gardes/amities.png"
+        src="https://github.com/Ayckinn/CPP/blob/main/FRANCE_IOI/LEVEL_01/Chapter_07/04_amitie_gardes/amitie.png"
         alt="DEMO"
         style="width:50%">
 </div>
