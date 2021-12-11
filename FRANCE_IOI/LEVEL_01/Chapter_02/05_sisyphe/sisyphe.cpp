@@ -4,22 +4,22 @@
     LANGUAGE  : C++
     LEVEL     : 01
     CHAPTER   : 02
-    EXERCICE  : 05 - SISYPHE
+    EXERCICE  : 05
+    TITLE     : SISYPHE
  * =================================================== */
-
 #include <iostream>
 #include "robot.h"
 
-#define loop(repeat) for(int i = 0; i < repeat; i++)
+#define LOOP(repeat) for(int i = 0; i < repeat; i++)
 
 int main()
 {
-   loop(21)
+   LOOP(21)
    {
       haut();
       droite();
    }
-   loop(21)
+   LOOP(21)
    {
       gauche();
       bas();
