@@ -4,7 +4,8 @@
     LANGUAGE  : C++
     LEVEL     : 01
     CHAPTER   : 01
-    EXERCICE  : 01 - HELLO WORLD !
+    EXERCICE  : 01
+    TITLE     : HELLO WORLD !
  * ========================================================================= */
 
 #include <iostream>
