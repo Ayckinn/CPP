@@ -4,15 +4,15 @@
     LANGUAGE  : C++
     LEVEL     : 01
     CHAPTER   : 02
-    EXERCICE  : 01 - PUNITION
+    EXERCICE  : 01
+    TITLE     : PUNITION
  * =================================================== */
-
 #include <iostream>
-#define loop(repeat) for(int i = 0; i < 135; i++)
+#define LOOP(repeat) for(int i = 0; i < repeat; i++)
 
 int main()
 {
-    loop(135)
+    LOOP(135)
         std::cout << "Je dois respecter le Grand Sorcier.\n";
 
     return 0;
