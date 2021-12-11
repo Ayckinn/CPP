@@ -6,17 +6,13 @@
     CHAPTER   : 02
     EXERCICE  : 02 - MATHEMATIQUES DE BASE
  * =================================================== */
-
 #include <iostream>
-
-#define repeat(nb) for (int _loop = 1, _max = (nb); _loop <= _max; _loop++)
-
-using namespace std;
+#define LOOP(repeat) for(int i = 0; i < repeat; i++)
 
 int main()
 {
-    repeat(13)
+    LOOP(13)
     {
-        cout << "9 * 8 = 72" << endl;
+        std::cout << "9 * 8 = 72" << std::endl;
     }
 }
