@@ -4,9 +4,9 @@
     LANGUAGE  : C++
     LEVEL     : 01
     CHAPTER   : 01
-    EXERCICE  : 05 - EMPILEMENT DE CYLINDRES
+    EXERCICE  : 05
+    TITLE     : EMPILEMENT DE CYLINDRES
  * =================================================== */
-
 #include <stdio.h>
 #include "robot.h"
 
