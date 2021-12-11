@@ -4,17 +4,17 @@
     LANGUAGE  : C++
     LEVEL     : 01
     CHAPTER   : 02
-    EXERCICE  : 04 - LE SECRET DU GOMA
+    EXERCICE  : 04
+    TITLE     : LE SECRET DU GOMA
  * =================================================== */
-
 #include <iostream>
 #include "robot.h"
 
-#define loop(turn) for(int i = 0; i < turn; ++i)
+#define LOOP(repeat) for(int i = 0; i < repeat; i++)
 
 int main()
 {
-   loop(15)
+   LOOP(15)
    {
       droite();
       ramasser();
