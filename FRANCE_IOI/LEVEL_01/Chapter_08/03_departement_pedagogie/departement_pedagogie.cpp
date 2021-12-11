@@ -4,7 +4,7 @@
     LANGUAGE  : C++
     LEVEL     : 01
     CHAPTER   : 08
-    EXERCICE  : 02
+    EXERCICE  : 03
     TITLE     : DEPARTEMENT DE PEDAGOGIE : LE «C'EST PLUS, C'EST MOINS»
  * =================================================== */
 #include <iostream>
