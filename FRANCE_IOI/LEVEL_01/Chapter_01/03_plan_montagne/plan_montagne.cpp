@@ -5,7 +5,7 @@
     LEVEL     : 01
     CHAPTER   : 01
     EXERCICE  : 03
-    TITLE 	  : PLAN DE LA MONTAGNE
+    TITLE     : PLAN DE LA MONTAGNE
  * =================================================== */
 #include <iostream>
 
