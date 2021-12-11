@@ -4,7 +4,8 @@
     LANGUAGE  : C++
     LEVEL     : 01
     CHAPTER   : 02
-    EXERCICE  : 09 - VENDANGES
+    EXERCICE  : 09
+    TITLE     : VENDANGES
  * =================================================== */
 #include <iostream>
 #include "robot.h"

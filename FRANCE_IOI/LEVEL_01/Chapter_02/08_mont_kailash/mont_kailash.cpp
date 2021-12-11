@@ -4,7 +4,8 @@
     LANGUAGE  : C++
     LEVEL     : 01
     CHAPTER   : 02
-    EXERCICE  : 08 - MONT KAILASH
+    EXERCICE  : 08
+    TITLE     : MONT KAILASH
  * =================================================== */
 #include <iostream>
 #include "robot.h"
