@@ -12,7 +12,7 @@
 int main()
 {
     LOOP(13)
-    {
         std::cout << "9 * 8 = 72" << std::endl;
-    }
+
+    return 0;
 }
