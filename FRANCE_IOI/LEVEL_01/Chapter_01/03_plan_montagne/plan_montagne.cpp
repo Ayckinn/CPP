@@ -4,9 +4,9 @@
     LANGUAGE  : C++
     LEVEL     : 01
     CHAPTER   : 01
-    EXERCICE  : 03 - PLAN DE LA MONTAGNE
+    EXERCICE  : 03
+    TITLE 	  : PLAN DE LA MONTAGNE
  * =================================================== */
-
 #include <iostream>
 
 int main()
