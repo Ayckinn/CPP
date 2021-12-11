@@ -9,18 +9,18 @@
 #include <iostream>
 #include "robot.h"
 
-#define loop(repeat) for(int i = 0; i < repeat; i++)
+#define LOOP(repeat) for(int i = 0; i < repeat; i++)
 
 int main()
 {
-    loop(20)
+    LOOP(20)
     {
         ramasser();
-        loop(15)
+        LOOP(15)
             droite();
 
         deposer();
-        loop(15)
+        LOOP(15)
             gauche();
     }
     return 0;
