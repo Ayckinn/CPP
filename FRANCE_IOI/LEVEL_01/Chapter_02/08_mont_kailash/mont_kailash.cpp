@@ -9,19 +9,19 @@
 #include <iostream>
 #include "robot.h"
 
-#define loop(repeat) for(int i = 0; i < repeat; i++)
+#define LOOP(repeat) for(int i = 0; i < repeat; i++)
 
 int main()
 {
-    loop(108)
+    LOOP(108)
     {
-        loop(13)
+        LOOP(13)
             haut();
-        loop(13)
+        LOOP(13)
             droite();
-        loop(13)
+        LOOP(13)
             bas();
-        loop(13)
+        LOOP(13)
             gauche();
     }
     return 0;
