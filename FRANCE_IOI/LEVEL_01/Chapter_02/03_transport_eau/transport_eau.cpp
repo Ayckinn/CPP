@@ -4,22 +4,23 @@
     LANGUAGE  : C++
     LEVEL     : 01
     CHAPTER   : 02
-    EXERCICE  : 03 - TRANSPORT D'EAU
+    EXERCICE  : 03
+    TITLE     : TRANSPORT D'EAU
  * =================================================== */
-
 #include <iostream>
 #include "robot.h"
 
-#define loop(turn) for(int i = 0; i < turn; ++i)
+#define LOOP(repeat) for(int i = 0; i < repeat; i++)
 
 int main()
 {
-    loop(2)
+    LOOP(2)
         gauche();
+        
     std::cout << "Bonjour, laissez-moi vous aider";
     ramasser();
 
-    loop(32)
+    LOOP(32)
         droite();
     deposer();
 
