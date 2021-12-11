@@ -4,9 +4,9 @@
     LANGUAGE  : C++
     LEVEL     : 01
     CHAPTER   : 01
-    EXERCICE  : 06 - RECETTE SECRETE
+    EXERCICE  : 06
+    TITLE     : RECETTE SECRETE
  * =================================================== */
-
 #include <iostream>
 #include "robot.h"
 
