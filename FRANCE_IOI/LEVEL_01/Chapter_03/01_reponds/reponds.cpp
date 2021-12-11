@@ -4,7 +4,8 @@
     LANGUAGE  : C++
     LEVEL     : 01
     CHAPTER   : 03
-    EXERCICE  : 01 - REPONDS !
+    EXERCICE  : 01
+    TITLE     : REPONDS !
  * =================================================== */
 #include <iostream>
 
