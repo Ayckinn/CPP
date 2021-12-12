@@ -4,7 +4,8 @@
     LANGUAGE  : C++
     LEVEL     : 01
     CHAPTER   : 06
-    EXERCICE  : 07 - PROTECTION DU VILLAGE
+    EXERCICE  : 07
+    TITLE     : PROTECTION DU VILLAGE
  * =================================================== */
 #include <iostream>
 #define LOOP(repeat) for(int i = 0; i < repeat; i++)

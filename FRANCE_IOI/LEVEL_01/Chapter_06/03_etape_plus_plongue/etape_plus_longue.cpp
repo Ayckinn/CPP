@@ -4,7 +4,8 @@
     LANGUAGE  : C++
     LEVEL     : 01
     CHAPTER   : 06
-    EXERCICE  : 03 - ETAPE LA PLUS LONGUE
+    EXERCICE  : 03
+    TITLE     : ETAPE LA PLUS LONGUE
  * =================================================== */
 #include <iostream>
 

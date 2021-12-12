@@ -4,7 +4,8 @@
     LANGUAGE  : C++
     LEVEL     : 01
     CHAPTER   : 06
-    EXERCICE  : 08 - LE JUSTE PRIX
+    EXERCICE  : 08
+    TITLE     : LE JUSTE PRIX
  * =================================================== */
 #include <iostream>
 #define LOOP(repeat) for(int i = 0; i < repeat; i++)

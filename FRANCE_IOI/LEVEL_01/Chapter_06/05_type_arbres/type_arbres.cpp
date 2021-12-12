@@ -4,7 +4,8 @@
     LANGUAGE  : C++
     LEVEL     : 01
     CHAPTER   : 06
-    EXERCICE  : 05 - TYPE D'ARBRES
+    EXERCICE  : 05
+    TITLE     : TYPE D'ARBRES
  * =================================================== */
 #include <iostream>
 

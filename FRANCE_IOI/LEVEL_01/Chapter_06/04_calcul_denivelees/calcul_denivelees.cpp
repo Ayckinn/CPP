@@ -4,7 +4,8 @@
     LANGUAGE  : C++
     LEVEL     : 01
     CHAPTER   : 06
-    EXERCICE  : 04 - CALCUL DES DENIVELEES
+    EXERCICE  : 04
+    TITLE     : CALCUL DES DENIVELEES
  * =================================================== */
 #include <iostream>
 #define LOOP(repeat) for(int i = 0; i < repeat; i++)

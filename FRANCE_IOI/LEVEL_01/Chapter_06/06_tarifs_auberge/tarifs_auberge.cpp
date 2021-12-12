@@ -4,7 +4,8 @@
     LANGUAGE  : C++
     LEVEL     : 01
     CHAPTER   : 06
-    EXERCICE  : 06 - TARIFS DE L'AUBERGE
+    EXERCICE  : 06
+    TITLE     : TARIFS DE L'AUBERGE
  * =================================================== */
 #include <iostream>
 
