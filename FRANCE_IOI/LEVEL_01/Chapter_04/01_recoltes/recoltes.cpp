@@ -4,7 +4,8 @@
     LANGUAGE  : C++
     LEVEL     : 01
     CHAPTER   : 04
-    EXERCICE  : 01 - RECOLTES
+    EXERCICE  : 01
+    TITLE     : RECOLTES
  * =================================================== */
 #include <iostream>
 

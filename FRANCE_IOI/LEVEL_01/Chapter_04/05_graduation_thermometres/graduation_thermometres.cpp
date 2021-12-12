@@ -4,10 +4,11 @@
     LANGUAGE  : C++
     LEVEL     : 01
     CHAPTER   : 04
-    EXERCICE  : 05 - GRADUATION DE THERMOMETRES
+    EXERCICE  : 05
+    TITLE     : GRADUATION DE THERMOMETRES
  * =================================================== */
 #include <iostream>
-#define loop(repeat) for(int i = 0; i < repeat; i++)
+#define LOOP(repeat) for(int i = 0; i < repeat; i++)
 
 int main()
 {
@@ -19,7 +20,7 @@ int main()
 	std::cin >> temp_max;
 	interval = (temp_max - temp_min);
 
-	loop(interval) 
+	LOOP(interval) 
 	{ 
 		std::cout << temp_min << std::endl;
 		temp_min++; 

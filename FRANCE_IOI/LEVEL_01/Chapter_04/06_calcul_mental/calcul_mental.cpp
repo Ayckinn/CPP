@@ -4,10 +4,11 @@
     LANGUAGE  : C++
     LEVEL     : 01
     CHAPTER   : 04
-    EXERCICE  : 06 - JEU DE CALCUL MENTAL
+    EXERCICE  : 06
+    TITLE     : JEU DE CALCUL MENTAL
  * =================================================== */
 #include <iostream>
-#define loop(repeat) for(int i = 0; i < repeat; i++)
+#define LOOP(repeat) for(int i = 0; i < repeat; i++)
 
 int main()
 {
@@ -17,7 +18,7 @@ int main()
 
    std::cin >> turn;
 
-   loop(turn) 
+   LOOP(turn) 
    { 
       std::cout << number << std::endl;
       number = number * multiply;

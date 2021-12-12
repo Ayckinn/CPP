@@ -4,7 +4,8 @@
     LANGUAGE  : C++
     LEVEL     : 01
     CHAPTER   : 04
-    EXERCICE  : 02 - RETRAITE SPIRITUELLE
+    EXERCICE  : 02
+    TITLE     : RETRAITE SPIRITUELLE
  * =================================================== */
 #include <iostream>
 

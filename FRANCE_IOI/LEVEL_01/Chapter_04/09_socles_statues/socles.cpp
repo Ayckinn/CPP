@@ -4,10 +4,11 @@
     LANGUAGE  : C++
     LEVEL     : 01
     CHAPTER   : 04
-    EXERCICE  : 09 - SOCLES POUR STATUES
+    EXERCICE  : 09
+    TITLE     : SOCLES POUR STATUES
  * =================================================== */
 #include <iostream>
-#define loop(repeat) for(int i = 0; i < repeat; i++)
+#define LOOP(repeat) for(int i = 0; i < repeat; i++)
 
 int main()
 {
@@ -20,7 +21,7 @@ int main()
    std::cin >> face_sol;
    intervalle = (face_superieure - face_sol);
 
-   loop(intervalle + 1)
+   LOOP(intervalle + 1)
    {
       largeur_sup = (largeur_sup + (face_superieure * face_superieure));
       face_superieure--;

@@ -4,10 +4,11 @@
     LANGUAGE  : C++
     LEVEL     : 01
     CHAPTER   : 04
-    EXERCICE  : 10 - LE PLUS BEAU KARVA
+    EXERCICE  : 10
+    TITLE     : LE PLUS BEAU KARVA
  * =================================================== */
 #include <iostream>
-#define loop(repeat) for(int i = 0; i < repeat; i++)
+#define LOOP(repeat) for(int i = 0; i < repeat; i++)
 
 int main()
 {
@@ -19,7 +20,7 @@ int main()
 
     std::cin >> nb_karva;
 
-    loop(nb_karva)
+    LOOP(nb_karva)
     {
         std::cin >> poids >> age >> cornes >> garrot;
         std::cout << (cornes * garrot + poids) << std::endl;

@@ -4,7 +4,8 @@
     LANGUAGE  : C++
     LEVEL     : 01
     CHAPTER   : 04
-    EXERCICE  : 03 - AGE DES PETITS-ENFANTS
+    EXERCICE  : 03
+    TITLE     : AGE DES PETITS-ENFANTS
  * =================================================== */
 #include <iostream>
 

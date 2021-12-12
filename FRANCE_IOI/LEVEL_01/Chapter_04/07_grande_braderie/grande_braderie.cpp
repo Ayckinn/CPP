@@ -4,10 +4,11 @@
     LANGUAGE  : C++
     LEVEL     : 01
     CHAPTER   : 04
-    EXERCICE  : 07 - LA GRANDE BRADERIE
+    EXERCICE  : 07
+    TITLE     : LA GRANDE BRADERIE
  * =================================================== */
 #include <iostream>
-#define loop(repeat) for(int i = 0; i < repeat; i++)
+#define LOOP(repeat) for(int i = 0; i < repeat; i++)
 
 int main()
 {
@@ -19,7 +20,7 @@ int main()
     std::cin >> emplacement;
     std::cin >> vendeurs;
 
-    loop(vendeurs + 1)
+    LOOP(vendeurs + 1)
     {
         std::cout << position << std::endl;
         position = (position + emplacement);
