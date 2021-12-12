@@ -4,7 +4,8 @@
     LANGUAGE  : C++
     LEVEL     : 01
     CHAPTER   : 03
-    EXERCICE  : 08 - DECOLLAGE DE FUSEE
+    EXERCICE  : 08
+    TITLE     : DECOLLAGE DE FUSEE
  * =================================================== */
 #include <iostream>
 

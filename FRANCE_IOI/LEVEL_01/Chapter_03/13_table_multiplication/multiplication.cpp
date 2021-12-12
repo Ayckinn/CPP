@@ -4,11 +4,11 @@
     LANGUAGE  : C++
     LEVEL     : 01
     CHAPTER   : 03
-    EXERCICE  : 13 - TABLE DE MULTIPLICATION
+    EXERCICE  : 13
+    TITLE     : TABLE DE MULTIPLICATION
  * =================================================== */
 #include <iostream>
-
-#define loop(repeat) for(int i = 0; i < repeat; i++)
+#define LOOP(repeat) for(int i = 0; i < repeat; i++)
 
 int main()
 {
@@ -16,9 +16,9 @@ int main()
     int multiply(1);
     int result(1);
 
-    loop(20)
+    LOOP(20)
     {
-        loop(20)
+        LOOP(20)
         {
             std::cout << result << " ";
             number++;

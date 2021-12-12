@@ -4,25 +4,26 @@
     LANGUAGE  : C++
     LEVEL     : 01
     CHAPTER   : 03
-    EXERCICE  : 11 - COURSE AVEC LES ENFANTS
+    EXERCICE  : 11
+    TITLE     : COURSE AVEC LES ENFANTS
  * =================================================== */
 #include <iostream>
 #include "robot.h"
 
-#define loop(repeat) for(int i = 0; i < repeat; i++)
+#define LOOP(repeat) for(int i = 0; i < repeat; i++)
 
 int main()
 {
     int move(0);
 
-    loop(10)
+    LOOP(10)
     {  
         move++;
-        loop(move)
+        LOOP(move)
             droite();
         ramasser();
 
-        loop(move)
+        LOOP(move)
             gauche();
         deposer();
     }
