@@ -4,7 +4,8 @@
     LANGUAGE  : C++
     LEVEL     : 01
     CHAPTER   : 07
-    EXERCICE  : 02 - MAISON DE L'ESPION
+    EXERCICE  : 02
+    TITLE     : MAISON DE L'ESPION
  * =================================================== */
 #include <iostream>
 #define LOOP(repeat) for(int i = 0; i < repeat; i++)

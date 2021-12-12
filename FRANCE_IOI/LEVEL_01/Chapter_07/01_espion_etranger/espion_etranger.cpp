@@ -4,7 +4,8 @@
     LANGUAGE  : C++
     LEVEL     : 01
     CHAPTER   : 07
-    EXERCICE  : 01 - ESPION ETRANGER
+    EXERCICE  : 01
+    TITLE     : ESPION ETRANGER
  * =================================================== */
 #include <iostream>
 #define LOOP(repeat) for(int i = 0; i < repeat; i++)

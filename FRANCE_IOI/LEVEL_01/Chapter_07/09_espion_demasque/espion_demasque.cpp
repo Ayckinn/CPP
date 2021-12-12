@@ -4,7 +4,8 @@
     LANGUAGE  : C++
     LEVEL     : 01
     CHAPTER   : 07
-    EXERCICE  : 09 - L'ESPION EST DEMASQUE
+    EXERCICE  : 09
+    TITLE     : L'ESPION EST DEMASQUE
  * =================================================== */
 #include <iostream>
 #define LOOP(repeat) for(int i = 0; i < repeat; i++)

@@ -4,7 +4,8 @@
     LANGUAGE  : C++
     LEVEL     : 01
     CHAPTER   : 07
-    EXERCICE  : 06 - CASERNES DE POMPIERS
+    EXERCICE  : 06
+    TITLE     : CASERNES DE POMPIERS
  * =================================================== */
 #include <iostream>
 #define LOOP(repeat) for(int i = 0; i < repeat; i++)

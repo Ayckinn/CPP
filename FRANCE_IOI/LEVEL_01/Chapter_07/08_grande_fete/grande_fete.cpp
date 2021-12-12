@@ -4,7 +4,8 @@
     LANGUAGE  : C++
     LEVEL     : 01
     CHAPTER   : 07
-    EXERCICE  : 08 - LA GRANDE FETE
+    EXERCICE  : 08
+    TITLE     : LA GRANDE FETE
  * =================================================== */
 #include <iostream>
 #define LOOP(repeat) for(int i = 0; i < repeat; i++)

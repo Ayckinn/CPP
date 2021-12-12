@@ -4,7 +4,8 @@
     LANGUAGE  : C++
     LEVEL     : 01
     CHAPTER   : 07
-    EXERCICE  : 03 - NOMBRE DE JOURS DANS LE MOIS
+    EXERCICE  : 03
+    TITLE     : NOMBRE DE JOURS DANS LE MOIS
  * =================================================== */
 #include <iostream>
 

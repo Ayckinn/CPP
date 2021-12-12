@@ -4,7 +4,8 @@
     LANGUAGE  : C++
     LEVEL     : 01
     CHAPTER   : 07
-    EXERCICE  : 04 - AMITIE ENTRE GARDES
+    EXERCICE  : 04
+    TITLE     : AMITIE ENTRE GARDES
  * =================================================== */
 #include <iostream>
 
