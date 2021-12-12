@@ -4,7 +4,8 @@
     LANGUAGE  : C++
     LEVEL     : 01
     CHAPTER   : 05
-    EXERCICE  : 05 - TARIF DU BATEAU
+    EXERCICE  : 05
+    TITLE     : TARIF DU BATEAU
  * =================================================== */
 #include <iostream>
 

@@ -4,7 +4,8 @@
     LANGUAGE  : C++
     LEVEL     : 01
     CHAPTER   : 05
-    EXERCICE  : 01 - TRANSPORT DES BAGAGES
+    EXERCICE  : 01
+    TITLE     : TRANSPORT DES BAGAGES
  * =================================================== */
 #include <iostream>
 

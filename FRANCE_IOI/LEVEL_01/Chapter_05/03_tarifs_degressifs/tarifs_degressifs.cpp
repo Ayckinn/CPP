@@ -4,7 +4,8 @@
     LANGUAGE  : C++
     LEVEL     : 01
     CHAPTER   : 05
-    EXERCICE  : 03 - TARIFS DEGRESSIFS
+    EXERCICE  : 03
+    TITLE     : TARIFS DEGRESSIFS
  * =================================================== */
 #include <iostream>
 

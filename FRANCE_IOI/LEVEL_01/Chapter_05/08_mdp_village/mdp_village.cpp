@@ -4,7 +4,8 @@
     LANGUAGE  : C++
     LEVEL     : 01
     CHAPTER   : 05
-    EXERCICE  : 08 - MOT DE PASSE DU VILLAGE
+    EXERCICE  : 08
+    TITLE     : MOT DE PASSE DU VILLAGE
  * =================================================== */
 #include <iostream>
 

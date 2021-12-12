@@ -4,7 +4,8 @@
     LANGUAGE  : C++
     LEVEL     : 01
     CHAPTER   : 05
-    EXERCICE  : 02 - BORNES KILOMETRIQUES
+    EXERCICE  : 02
+    TITLE     : BORNES KILOMETRIQUES
  * =================================================== */
 #include <iostream>
 

@@ -4,7 +4,8 @@
     LANGUAGE  : C++
     LEVEL     : 01
     CHAPTER   : 05
-    EXERCICE  : 06 - TRAVERSEE DU PONT
+    EXERCICE  : 06
+    TITLE     : TRAVERSEE DU PONT
  * =================================================== */
 #include <iostream>
 

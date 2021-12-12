@@ -4,7 +4,8 @@
     LANGUAGE  : C++
     LEVEL     : 01
     CHAPTER   : 05
-    EXERCICE  : 04 - BAGARRE GENERALE
+    EXERCICE  : 04
+    TITLE     : BAGARRE GENERALE
  * =================================================== */
  #include <iostream>
 
