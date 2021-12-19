@@ -35,7 +35,7 @@ int main()
  * il faut utiliser la fonction [ROUND](Arrondi).
  * Ainsi : 2,3 --> 2 et 3,8 --> 4
  * 
- * /!\ IL EST IMPORTANT DE BIEN MATRISER LES ARRONDIS, CELA PEUT CONSIDERABLEMENT CHANGER LE RESULTAT !!
+ * /!\ IL EST IMPORTANT DE BIEN MATRISER LES ARRONDIS, CELA PEUT CONSIDERABLEMENT CHANGER LE RESULTAT !
  * 
  * Prenons l'exemple donné dans l'intitulé du cours :
  * 
