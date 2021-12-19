@@ -1,25 +1,3 @@
-/*
-Pour la construction de votre nouvelle maison, 
-vous avez calculé la quantité de ciment nécessaire pour construire les fondations.
-De nature économe, vous souhaitez acheter exactement la quantité nécessaire mais malheureusement
-le magasin ne vend le ciment qu'en gros sacs. Vous souhaitez calculer combien tout cela va vous coûter.
-
-Ce que doit faire votre programme :
-Votre programme devra lire un nombre décimal,
-la quantité de ciment nécessaire pour les fondations de votre nouvelle maison, en kilos.
-Sachant que le ciment n'est vendu qu'en sacs de 60 kilos et que un sac coûte 45 euros,
-votre programme devra afficher le coût total du ciment.
-
-
-Exemple
-
-entrée :
-145.8
-
-sortie :
-135
-*/
-
 /* =================== DESCRIPTION =================== *
     AUTHOR    : Ayckinn
     COPYRIGHT : ©2021
@@ -30,8 +8,40 @@ sortie :
     TITLE     : CONSTRUCTION DE MAISONS
  * =================================================== */
 #include <iostream>
+#include <cmath>
 
 int main()
 {
+    float cement_in_kg = 0;
+    int weight_by_bag = 60;
+    int price_by_bag = 45;
+
+    std::cin >> cement_in_kg;
+
+    float full_cement_price = (ceil(cement_in_kg / weight_by_bag) * price_by_bag);
+    
+    std::cout << full_cement_price << std::endl;
     return 0;
 }
+
+/**
+ * NOTE :
+ * La fonction [CEIL] (CEILING = Plafond -> en haut) inclue dans la bibliothèque (CMATH)
+ * permet d'afficher un nombre décimal à l'arrondi supérieur. 
+ * A l'inverse, la fonction [FLOOR](Sol -> en bas) permet d'afficher un nombre décimal à l'arrondi inférieur
+ * 
+ * /!\ IL EST IMPORTANT DE BIEN MATRISER LES ARRONDIS, CELA PEUT CONSIDERABLEMENT CHANGER LE RESULTAT !!
+ * 
+ * Prenons l'exemple donné dans l'intitulé du cours :
+ * 
+ *  VERSION SANS ARRONDI
+ *      (145.8 / 60) = 2.43
+ *      (2.43 * 45)  = 109.35
+ * Le coût total du ciment est de 109.35€
+ * 
+ *  VERSION AVEC ARRONDI 
+ *      145.8 --> 146
+ *      (146 / 60) = 2.43 --> 3
+ *      (3 * 45)   = 135
+ * Le coût total du ciment est de 135€
+**/

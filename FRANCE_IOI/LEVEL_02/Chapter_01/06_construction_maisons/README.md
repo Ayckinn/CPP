@@ -14,4 +14,4 @@ LEVEL 02 --> CHAPTER 01 --> EXERCICE 06
 ---
 ### **RELEASE**
 
-- December 16' 2021
+- December 19' 2021
