@@ -11,7 +11,7 @@ Je les poste pour mon compte personnel afin de garder certaines logiques de prog
 N'utilise ces solutions que si tu es VRAIMENT bloqué !!! 
 Ne copie/colle pas bêtement mon code. 
 Essaie de comprendre ce que tu fais et recode le à TA façon.
-Il n'y a pas qu'une seule solution et une seule façon de coder alors réfléchis et garde ta personnalité !
+Il n'y a pas qu'une seule façon de coder alors réfléchis et garde ta personnalité !
 
 ---
 
