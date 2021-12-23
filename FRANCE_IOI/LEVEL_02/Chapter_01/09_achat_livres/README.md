@@ -1,12 +1,12 @@
-# AUGMENTATION DES TAXES - C++ Version
-LEVEL 02 --> CHAPTER 01 --> EXERCICE 08
+# ACHAT DE LIVRES - C++ Version
+LEVEL 02 --> CHAPTER 01 --> EXERCICE 09
 
 ---
 ### **SCREENSHOT**
 
 <div align="center">
     <img
-        src="https://github.com/Ayckinn/CPP/blob/main/FRANCE_IOI/LEVEL_02/Chapter_01/08_augmentation_taxes/taxes.png"
+        src="https://github.com/Ayckinn/CPP/blob/main/FRANCE_IOI/LEVEL_02/Chapter_01/09_achat_livres/todo.png"
         alt="DEMO"
         style="width:50%">
 </div>
@@ -14,4 +14,4 @@ LEVEL 02 --> CHAPTER 01 --> EXERCICE 08
 ---
 ### **RELEASE**
 
-- December 20' 2021
+- December 24' 2021
