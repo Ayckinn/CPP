@@ -7,7 +7,7 @@ LEVEL 01 --> CHAPTER 02 --> EXERCICE 10
 #### To do
 <div align="center">
     <img
-        src="https://github.com/Ayckinn/CPP/blob/main/FRANCE_IOI/LEVEL_01/Chapter_02/10_grand_evenement/evenement.png"
+        src="https://github.com/Ayckinn/CPP/blob/main/FRANCE_IOI/LEVEL_01/Chapter_02/10_grand_evenement/todo.png"
         alt="DEMO"
         style="width:50%">
 </div>

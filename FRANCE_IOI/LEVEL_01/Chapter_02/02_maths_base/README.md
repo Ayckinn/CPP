@@ -6,7 +6,7 @@ LEVEL 01 --> CHAPTER 02 --> EXERCICE 02
 
 <div align="center">
     <img
-        src="https://github.com/Ayckinn/CPP/blob/main/FRANCE_IOI/LEVEL_01/Chapter_02/02_maths_base/maths_base.png"
+        src="https://github.com/Ayckinn/CPP/blob/main/FRANCE_IOI/LEVEL_01/Chapter_02/02_maths_base/todo.png"
         alt="DEMO"
         style="width:50%">
 </div>
