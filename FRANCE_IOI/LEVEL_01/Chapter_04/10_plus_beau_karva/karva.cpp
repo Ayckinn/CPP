@@ -12,18 +12,18 @@
 
 int main()
 {
-    int nb_karva(0);
-    int poids(0);
-    int age(0);
-    int cornes(0);
-    int garrot(0);
+    int nb_karva = 0;
+    int weight = 0;
+    int age = 0;
+    int horns(0);
+    int withers(0);
 
     std::cin >> nb_karva;
 
     LOOP(nb_karva)
     {
-        std::cin >> poids >> age >> cornes >> garrot;
-        std::cout << (cornes * garrot + poids) << std::endl;
+        std::cin >> weight >> age >> horns >> withers;
+        std::cout << (horns * withers + weight) << std::endl;
     }
     return 0;
 }

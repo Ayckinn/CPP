@@ -12,8 +12,8 @@
 
 int main()
 {
-    int karvas(0);
-    int total(0);
+    int karvas = 0;
+    int total = 0;
 
     LOOP(20) 
     { 

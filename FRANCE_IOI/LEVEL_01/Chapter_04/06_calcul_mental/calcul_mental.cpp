@@ -11,11 +11,11 @@
 #define LOOP(repeat) for(int i = 0; i < repeat; i++)
 
 int main()
-{
-   int turn(0);
-   int number(66);
-   int multiply(2);
+{ 
+   int number = 66;
+   int multiply = 2;
 
+   int turn = 0;
    std::cin >> turn;
 
    LOOP(turn) 

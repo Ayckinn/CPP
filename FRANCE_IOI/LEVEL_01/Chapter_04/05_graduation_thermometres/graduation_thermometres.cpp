@@ -12,9 +12,9 @@
 
 int main()
 {
-	int temp_min(0);
-	int temp_max(0);
-	int interval(0);
+	int temp_min = 0;
+	int temp_max = 0;
+	int interval = 0;
 
 	std::cin >> temp_min;
 	std::cin >> temp_max;

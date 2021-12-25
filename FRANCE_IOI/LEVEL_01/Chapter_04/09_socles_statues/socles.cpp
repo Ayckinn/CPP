@@ -12,20 +12,20 @@
 
 int main()
 {
-   int face_sol(0);
-   int face_superieure(0);
-   int largeur_sup(0);
-   int intervalle(0);
+   int ground = 0;
+   int top = 0;
+   int top_width = 0;
+   int interval = 0;
 
-   std::cin >> face_superieure;
-   std::cin >> face_sol;
-   intervalle = (face_superieure - face_sol);
+   std::cin >> top;
+   std::cin >> ground;
+   interval = (top - ground);
 
-   LOOP(intervalle + 1)
+   LOOP(interval + 1)
    {
-      largeur_sup = (largeur_sup + (face_superieure * face_superieure));
-      face_superieure--;
+      top_width = (top_width + (top * top));
+      top--;
    }
-   std::cout << largeur_sup << std::endl;
+   std::cout << top_width << std::endl;
    return 0;
 }

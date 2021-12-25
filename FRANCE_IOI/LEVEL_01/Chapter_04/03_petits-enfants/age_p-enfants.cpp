@@ -11,12 +11,12 @@
 
 int main()
 {
-   int ageCadet;
-   int ageAine;
-   std::cin >> ageCadet;
-   std::cin >> ageAine;
+   int junior_age;
+   int senior_age;
+   std::cin >> junior_age;
+   std::cin >> senior_age;
    
-   int difference = ageAine - ageCadet;
+   int difference = senior_age - junior_age;
    std::cout << difference << std::endl;
 
    return 0;

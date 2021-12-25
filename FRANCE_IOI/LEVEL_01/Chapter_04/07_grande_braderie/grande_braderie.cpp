@@ -12,18 +12,18 @@
 
 int main()
 {
-    int position(0);
-    int emplacement(0);
-    int vendeurs(0);
+    int position = 0;
+    int location = 0;
+    int sellers = 0;
 
     std::cin >> position;
-    std::cin >> emplacement;
-    std::cin >> vendeurs;
+    std::cin >> location;
+    std::cin >> sellers;
 
-    LOOP(vendeurs + 1)
+    LOOP(sellers + 1)
     {
         std::cout << position << std::endl;
-        position = (position + emplacement);
+        position = (position + location);
     }
     return 0;
 }

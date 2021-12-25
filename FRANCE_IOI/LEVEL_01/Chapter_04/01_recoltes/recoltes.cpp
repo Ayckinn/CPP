@@ -11,11 +11,11 @@
 
 int main()
 {
-    int longueur_cote(0);
-    int masse(23);
+    int side_length = 0;
+    const int WEIGHT = 23;
 
-    std::cin >> longueur_cote;
-    std::cout << (masse * (longueur_cote * longueur_cote)) << std::endl;
+    std::cin >> side_length;
+    std::cout << (WEIGHT * (side_length * side_length)) << std::endl;
 
     return 0;
 }

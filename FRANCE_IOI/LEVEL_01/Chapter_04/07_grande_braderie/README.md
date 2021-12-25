@@ -6,7 +6,7 @@ LEVEL 01 --> CHAPTER 04 --> EXERCICE 07
 
 <div align="center">
     <img
-        src="https://github.com/Ayckinn/CPP/blob/main/FRANCE_IOI/LEVEL_01/Chapter_04/07_grande_braderie/braderie.png"
+        src="https://github.com/Ayckinn/CPP/blob/main/FRANCE_IOI/LEVEL_01/Chapter_04/07_grande_braderie/todo.png"
         alt="DEMO"
         style="width:50%">
 </div>

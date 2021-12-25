@@ -7,7 +7,7 @@ LEVEL 01 --> CHAPTER 04 --> EXERCICE 03
 #### To Do
 <div align="center">
     <img
-        src="https://github.com/Ayckinn/CPP/blob/main/FRANCE_IOI/LEVEL_01/Chapter_04/03_petits-enfants/age_p-enfants.png"
+        src="https://github.com/Ayckinn/CPP/blob/main/FRANCE_IOI/LEVEL_01/Chapter_04/03_petits-enfants/todo.png"
         alt="DEMO"
         style="width:50%">
 </div>

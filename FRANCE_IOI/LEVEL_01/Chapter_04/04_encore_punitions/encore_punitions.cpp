@@ -12,7 +12,7 @@
 
 int main()
 {
-   int write(0);
+   int write = 0;
    std::cin >> write;
 
    LOOP(write)
