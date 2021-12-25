@@ -11,6 +11,14 @@
 
 int main()
 {
-   std::cout << ((25 + 30 + 27 + 22 - 8) *3 ) << std::endl;
+   int first_class = 25;
+   int second_class = 30;
+   int third_class = 27;
+   int fourth_class = 22;
+   int unavailable = 8;
+   int candies = 3;
+   int peoples = first_class + second_class + third_class + fourth_class - unavailable;
+
+   std::cout << peoples * candies << std::endl;
    return 0;
 }

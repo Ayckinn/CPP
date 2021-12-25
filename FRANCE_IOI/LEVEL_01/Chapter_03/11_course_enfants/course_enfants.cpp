@@ -14,7 +14,7 @@
 
 int main()
 {
-    int move(0);
+    int move = 0;
 
     LOOP(10)
     {  

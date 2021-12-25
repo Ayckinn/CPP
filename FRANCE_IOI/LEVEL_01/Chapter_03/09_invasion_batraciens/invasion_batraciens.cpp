@@ -12,11 +12,11 @@
 
 int main()
 {
-   int batraciens(1337);
+   int frogs = 1337;
 
    LOOP(12)
-      batraciens = (batraciens * 2);
+      frogs = (frogs * 2);
 
-   std::cout << batraciens << std::endl;
+   std::cout << frogs << std::endl;
    return 0;
 }

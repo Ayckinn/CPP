@@ -7,7 +7,7 @@ LEVEL 01 --> CHAPTER 03 --> EXERCICE 08
 #### To Do
 <div align="center">
     <img
-        src="https://github.com/Ayckinn/CPP/blob/main/FRANCE_IOI/LEVEL_01/Chapter_03/08_decollage_fusee/decollage.png"
+        src="https://github.com/Ayckinn/CPP/blob/main/FRANCE_IOI/LEVEL_01/Chapter_03/08_decollage_fusee/todo.png"
         alt="DEMO"
         style="width:50%">
 </div>

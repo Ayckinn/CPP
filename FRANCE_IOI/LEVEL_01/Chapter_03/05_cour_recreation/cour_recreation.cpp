@@ -11,12 +11,10 @@
 
 int main()
 {
-   int longueur_cote((17 * 5) + (7 * 2) + 5 + (2 * 2));
-   int surface(longueur_cote * longueur_cote);
-   int perimetre(longueur_cote * 4);
+   int side_length((17 * 5) + (7 * 2) + 5 + (2 * 2));
+   int surface(side_length * side_length);
+   int perimeter(side_length * 4);
 
-   std::cout << surface << std::endl;
-   std::cout << perimetre << std::endl;
-
+   std::cout << surface << std::endl << perimeter << std::endl;
    return 0;
 }

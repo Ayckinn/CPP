@@ -11,8 +11,10 @@
 
 int main()
 {
-   int eclipse(12581 - 11937);
-   std::cout << eclipse << std::endl;
-   
+   int current_date = 11937;
+   int day_of_eclipse = 12581;
+   int remaining_days = (day_of_eclipse - current_date);
+
+   std::cout << remaining_days << std::endl;
    return 0;
 }

@@ -7,7 +7,7 @@ LEVEL 01 --> CHAPTER 03 --> EXERCICE 11
 #### To Do
 <div align="center">
     <img
-        src="https://github.com/Ayckinn/CPP/blob/main/FRANCE_IOI/LEVEL_01/Chapter_03/11_course_enfants/course_enfants.png"
+        src="https://github.com/Ayckinn/CPP/blob/main/FRANCE_IOI/LEVEL_01/Chapter_03/11_course_enfants/todo.png"
         alt="DEMO"
         style="width:50%">
 </div>

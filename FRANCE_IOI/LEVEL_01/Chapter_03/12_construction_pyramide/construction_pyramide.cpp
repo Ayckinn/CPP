@@ -14,8 +14,8 @@
 
 int main()
 {
-   int level(1);
-   int square(0);
+   int level = 1;
+   int square = 0;
 
    LOOP(9)
    {

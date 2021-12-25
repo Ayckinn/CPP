@@ -11,9 +11,13 @@
 
 int main()
 {
-   std::cout << (2 + 34 + 6) << " " ;
-   std::cout << ((2 + 34 + 6) * 2) << " ";
-   std::cout << ((2 + 34 + 6) * 3) << " " << std::endl;
+   int swimming = 2;
+   int biking = 34;
+   int running = 6;
+   int distance_day_one = swimming + biking + running;
+   int distance_day_two = distance_day_one * 2;
+   int distance_day_three = distance_day_one * 3;
 
+   std::cout << distance_day_one << " " << distance_day_two << " " << distance_day_three << std::endl;
    return 0;
 }

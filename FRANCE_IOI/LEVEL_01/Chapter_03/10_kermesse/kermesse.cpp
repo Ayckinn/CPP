@@ -12,8 +12,8 @@
 
 int main()
 {
-   int attempt(0);
-   int candies(0);
+   int attempt = 0;
+   int candies = 0;
 
    LOOP(50)
    {

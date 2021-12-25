@@ -6,7 +6,7 @@ LEVEL 01 --> CHAPTER 03 --> EXERCICE 09
 
 <div align="center">
     <img
-        src="https://github.com/Ayckinn/CPP/blob/main/FRANCE_IOI/LEVEL_01/Chapter_03/09_invasion_batraciens/batraciens.png"
+        src="https://github.com/Ayckinn/CPP/blob/main/FRANCE_IOI/LEVEL_01/Chapter_03/09_invasion_batraciens/todo.png"
         alt="DEMO"
         style="width:50%">
 </div>

@@ -7,7 +7,7 @@ LEVEL 01 --> CHAPTER 03 --> EXERCICE 04
 #### To Do
 <div align="center">
     <img
-        src="https://github.com/Ayckinn/CPP/blob/main/FRANCE_IOI/LEVEL_01/Chapter_03/04_algoreathlon/algoreathlon.png"
+        src="https://github.com/Ayckinn/CPP/blob/main/FRANCE_IOI/LEVEL_01/Chapter_03/04_algoreathlon/todo.png"
         alt="DEMO"
         style="width:50%">
 </div>
