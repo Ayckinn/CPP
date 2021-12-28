@@ -11,17 +11,18 @@
 
 int main()
 {
-   int deA(0);
-   int deB(0);
-   int somme_des(0);
+   int dice_a = 0;
+   int dice_b = 0;
+   int dice_sum = 0;
+   int tax = 36;
 
-   std::cin >> deA >> deB;
-   somme_des = (deA + deB);
+   std::cin >> dice_a >> dice_b;
+   dice_sum = dice_a + dice_b;
 
-   if(somme_des >= 10)
-      std::cout << "Taxe spéciale !" << std::endl << 36 << std::endl;
+   if(dice_sum >= 10)
+      std::cout << "Taxe spéciale !" << std::endl << tax << std::endl;
    else
-      std::cout << "Taxe régulière" << std::endl << (somme_des * 2) << std::endl;
+      std::cout << "Taxe régulière" << std::endl << (dice_sum * 2) << std::endl;
 
    return 0;
 }

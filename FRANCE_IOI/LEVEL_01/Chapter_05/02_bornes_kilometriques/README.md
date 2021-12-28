@@ -6,7 +6,7 @@ LEVEL 01 --> CHAPTER 05 --> EXERCICE 02
 
 <div align="center">
     <img
-        src="https://github.com/Ayckinn/CPP/blob/main/FRANCE_IOI/LEVEL_01/Chapter_05/02_bornes_kilometriques/bornes.png"
+        src="https://github.com/Ayckinn/CPP/blob/main/FRANCE_IOI/LEVEL_01/Chapter_05/02_bornes_kilometriques/todo.png"
         alt="DEMO"
         style="width:50%">
 </div>

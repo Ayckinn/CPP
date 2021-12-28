@@ -11,8 +11,8 @@
 
 int main()
 {
-   int password(64741);
-   int user_choice(0);
+   int password = 64741;
+   int user_choice = 0;
 
    std::cin >> user_choice;
 

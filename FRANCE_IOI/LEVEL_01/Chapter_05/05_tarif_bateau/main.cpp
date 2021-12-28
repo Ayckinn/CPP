@@ -11,7 +11,7 @@
 
 int main()
 {
-    int age(0);
+    int age = 0;
     std::cin >> age;
 
     if(age < 21)

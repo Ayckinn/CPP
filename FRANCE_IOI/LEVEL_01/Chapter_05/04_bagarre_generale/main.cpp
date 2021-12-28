@@ -7,18 +7,18 @@
     EXERCICE  : 04
     TITLE     : BAGARRE GENERALE
  * =================================================== */
- #include <iostream>
+#include <iostream>
 
 int main()
 {
-   int superficie_arignon(0);
-   int superficie_evaran(0);
+   int arignon_area = 0;
+   int evaran_area = 0;
 
-   std::cin >> superficie_arignon >> superficie_evaran;
+   std::cin >> arignon_area >> evaran_area;
 
-   if(superficie_arignon - superficie_evaran > 10)
+   if(arignon_area - evaran_area > 10)
       std::cout << "La famille Arignon a un champ trop grand" << std::endl;
-   else if(superficie_evaran - superficie_arignon > 10)
+   else if(evaran_area - arignon_area > 10)
       std::cout << "La famille Evaran a un champ trop grand" << std::endl;
 
    return 0;

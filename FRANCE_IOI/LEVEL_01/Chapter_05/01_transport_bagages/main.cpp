@@ -11,14 +11,15 @@
 
 int main()
 {
-    int nb_paquet(0);
-    int poids(0);
-    int resultat(0);
+    int bags = 0;
+    int weight = 0;
+    int result = 0;
+    int limit_weight = 105;
 
-    std::cin >> nb_paquet >> poids;
-    resultat = (nb_paquet * poids);
+    std::cin >> bags >> weight;
+    result = (bags * weight);
 
-    if(resultat > 105)
+    if(result > limit_weight)
         std::cout << "Surcharge !" << std::endl;
 
     return 0;

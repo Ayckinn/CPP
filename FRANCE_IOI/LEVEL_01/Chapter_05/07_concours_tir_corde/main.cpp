@@ -12,28 +12,28 @@
 
 int main()
 {
-   int nb_membre(0);
-   int poidsA(0);
-   int poidsB(0);
-   int totalA(0);
-   int totalB(0);
+   int members = 0;
+   int weight_a = 0;
+   int weight_b = 0;
+   int total_a = 0;
+   int total_b = 0;
 
-   std::cin >> nb_membre;
+   std::cin >> members;
 
-   LOOP(nb_membre)
+   LOOP(members)
    {
-      std::cin >> poidsA >> poidsB;
-      totalA = (totalA + poidsA);
-      totalB = (totalB + poidsB);
+      std::cin >> weight_a >> weight_b;
+      total_a = (total_a + weight_a);
+      total_b = (total_b + weight_b);
    }
 
-   if(totalA > totalB)
+   if(total_a > total_b)
       std::cout << "\nL'équipe 1 a un avantage" << std::endl;
    else
       std::cout << "\nL'équipe 2 a un avantage" << std::endl;
 
-   std::cout << "\nPoids total pour l'équipe 1 : " << totalA;
-   std::cout << "\nPoids total pour l'équipe 2 : " << totalB << std::endl;
+   std::cout << "\nPoids total pour l'équipe 1 : " << total_a;
+   std::cout << "\nPoids total pour l'équipe 2 : " << total_b << std::endl;
 
    return 0;
 }

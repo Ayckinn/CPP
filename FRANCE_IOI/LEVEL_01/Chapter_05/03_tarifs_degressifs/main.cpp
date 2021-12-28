@@ -11,15 +11,18 @@
 
 int main()
 {
-   int heure_arrivee(0);
-   std::cin >> heure_arrivee;
+   int arrival_time = 0;
+   int room_price = 10;
+   int tax = 5;
+   int price_max = 53;
 
-   int prix = (10 + 5 * heure_arrivee); 
+   std::cin >> arrival_time;
+   int price = (room_price + tax * arrival_time); 
 
-   if(prix > 53)
-      std::cout << 53 << std::endl;
+   if(price > price_max)
+      std::cout << price_max << std::endl;
    else
-      std::cout << prix << std::endl;
+      std::cout << price << std::endl;
 
    return 0;
 }

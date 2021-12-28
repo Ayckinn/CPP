@@ -11,15 +11,15 @@
 
 int main()
 {
-    int borneA(0);
-    int borneB(0);
+    int checkpoint_a = 0;
+    int checkpoint_b = 0;
 
-    std::cin >> borneA >> borneB;
+    std::cin >> checkpoint_a >> checkpoint_b;
 
-    if(borneA < borneB)
-        std::cout << borneB - borneA << std::endl;
+    if(checkpoint_a < checkpoint_b)
+        std::cout << checkpoint_b - checkpoint_a << std::endl;
     else
-        std::cout << borneA - borneB << std::endl;
+        std::cout << checkpoint_a - checkpoint_b << std::endl;
 
     return 0;
 }
