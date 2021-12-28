@@ -4,17 +4,19 @@
     LANGUAGE  : C++
     LEVEL     : 01
     CHAPTER   : 03
-    EXERCICE  : 05
-    TITLE     : COUR DE RECREATION
+    EXERCICE  : 09
+    TITLE     : INVASION DE BATRACIENS
  * =================================================== */
 #include <iostream>
+#define LOOP(repeat) for(int i = 0; i < repeat; i++)
 
 int main()
 {
-   int side_length((17 * 5) + (7 * 2) + 5 + (2 * 2));
-   int surface(side_length * side_length);
-   int perimeter(side_length * 4);
+   int frogs = 1337;
 
-   std::cout << surface << std::endl << perimeter << std::endl;
+   LOOP(12)
+      frogs *= 2;
+
+   std::cout << frogs << std::endl;
    return 0;
 }

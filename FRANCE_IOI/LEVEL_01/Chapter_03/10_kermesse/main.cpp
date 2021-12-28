@@ -18,7 +18,7 @@ int main()
    LOOP(50)
    {
       attempt++;
-      candies = candies + attempt;
+      candies += attempt;
       std::cout << candies << std::endl;
    }
    return 0;
