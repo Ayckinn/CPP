@@ -6,7 +6,7 @@ LEVEL 02 --> CHAPTER 01 --> EXERCICE 04
 
 <div align="center">
     <img
-        src="https://github.com/Ayckinn/CPP/blob/main/FRANCE_IOI/LEVEL_02/Chapter_01/04_moyenne_notes/moyenne.png"
+        src="https://github.com/Ayckinn/CPP/blob/main/FRANCE_IOI/LEVEL_02/Chapter_01/04_moyenne_notes/todo.png"
         alt="DEMO"
         style="width:50%">
 </div>

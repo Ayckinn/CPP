@@ -12,9 +12,9 @@
 
 int main()
 {
-    int grades_obtained(0);
-    int grades(0);
-    double sum_of_grades(0);
+    int grades_obtained = 0;
+    int grades = 0;
+    double sum_of_grades = 0;
 
     std::cin >> grades_obtained;
 

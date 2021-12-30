@@ -12,14 +12,14 @@
 
 int main()
 {
-    int vegetable(0);
+    int vegetable = 0;
     std::cin >> vegetable;
 
     LOOP(vegetable)
     {
-        double weight(0);
-        double age_in_days(0);
-        double price(0);
+        double weight = 0;
+        double age_in_days = 0;
+        double price = 0;
         
         std::cin >> weight >> age_in_days >> price;
         std::cout << (price / weight) << std::endl;

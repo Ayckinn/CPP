@@ -6,7 +6,7 @@ LEVEL 02 --> CHAPTER 01 --> EXERCICE 05
 
 <div align="center">
     <img
-        src="https://github.com/Ayckinn/CPP/blob/main/FRANCE_IOI/LEVEL_02/Chapter_01/05_augmentation_population/augmentation.png"
+        src="https://github.com/Ayckinn/CPP/blob/main/FRANCE_IOI/LEVEL_02/Chapter_01/05_augmentation_population/todo.png"
         alt="DEMO"
         style="width:50%">
 </div>

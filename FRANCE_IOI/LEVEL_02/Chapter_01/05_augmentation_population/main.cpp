@@ -11,9 +11,9 @@
 
 int main()
 {
-	int current_pop(0);
-	int new_pop(0);
-	double pop_percent(0);
+	int current_pop = 0;
+	int new_pop = 0;
+	double pop_percent = 0;
 
 	std::cin >> current_pop >> pop_percent;
 	new_pop = ((current_pop * pop_percent / 100) + current_pop);
