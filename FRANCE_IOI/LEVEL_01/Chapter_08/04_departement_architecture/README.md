@@ -6,7 +6,7 @@ LEVEL 01 --> CHAPTER 08 --> EXERCICE 04
 
 <div align="center">
     <img
-        src="https://github.com/Ayckinn/CPP/blob/main/FRANCE_IOI/LEVEL_01/Chapter_08/04_departement_architecture/pyramide.png"
+        src="https://github.com/Ayckinn/CPP/blob/main/FRANCE_IOI/LEVEL_01/Chapter_08/04_departement_architecture/todo.png"
         alt="DEMO"
         style="width:50%">
 </div>

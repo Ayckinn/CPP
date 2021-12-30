@@ -11,9 +11,9 @@
 
 int main()
 {
-   int max_stones(0);
-   int levels(0);
-   int stones_by_levels(0);
+   int max_stones = 0;
+   int levels = 0;
+   int stones_by_levels = 0;
 
    std::cin >> max_stones;
 

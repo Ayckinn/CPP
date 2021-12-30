@@ -11,11 +11,11 @@
 
 int main()
 {
-   int measures(0);
-   int temp_min(0);
-   int temp_max(0);
-   int intervals(1);
-   int temp(0);
+   int measures = 0;
+   int temp_min = 0;
+   int temp_max = 0;
+   int intervals = 1;
+   int temp = 0;
 
    std::cin >> measures >> temp_min >> temp_max >> temp;
 

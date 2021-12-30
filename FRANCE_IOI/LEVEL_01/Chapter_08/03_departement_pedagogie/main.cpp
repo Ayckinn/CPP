@@ -11,9 +11,9 @@
 
 int main()
 {
-   int nb_to_guess(0);
-   int choice(0);
-   int tries(0);
+   int nb_to_guess = 0;
+   int choice = 0;
+   int tries = 0;
 
    std::cin >> nb_to_guess;
 

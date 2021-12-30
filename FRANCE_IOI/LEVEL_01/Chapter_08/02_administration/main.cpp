@@ -4,24 +4,22 @@
     LANGUAGE  : C++
     LEVEL     : 01
     CHAPTER   : 08
-    EXERCICE  : 01
-    TITLE     : DEPARTEMENT DE MEDECINE : CONTROLE D'UNE EPIDEMIE
+    EXERCICE  : 02
+    TITLE     : ADMINISTRATION : COMPTES ANNUELS
  * =================================================== */
 #include <iostream>
 
 int main()
 {
-   int total_pop(0);
-   int sick_people(1);
-   int days(1);
+   int expenses = 0;
+   int result = 0;
+   int end_loop = -1;
 
-   std::cin >> total_pop;
-
-   while(sick_people < total_pop)
+   while(expenses != end_loop)
    {
-      days++;
-      sick_people *= 3;
+      std::cin >> expenses;
+      result += expenses;
    }
-   std::cout << days << std::endl;
+   std::cout << (result + 1) << std::endl;
    return 0;
 }
