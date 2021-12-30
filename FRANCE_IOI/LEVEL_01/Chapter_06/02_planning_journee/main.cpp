@@ -12,18 +12,18 @@
 
 int main()
 {
-   int pos_actuelle(0);
-   int nombre_villes(0);
-   int villes(0);
-   int total(0);
+   int current_pos = 0;
+   int cities = 0;
+   int cities_pos = 0;
+   int total = 0;
 
-   std::cin >> pos_actuelle >> nombre_villes;
+   std::cin >> current_pos >> cities;
 
-   LOOP(nombre_villes)
+   LOOP(cities)
    {
-      std::cin >> villes;
+      std::cin >> cities_pos;
 
-      if(villes >= (pos_actuelle - 50) && villes <= (pos_actuelle + 50))
+      if(cities_pos >= (current_pos - 50) && cities_pos <= (current_pos + 50))
          total++;
    }
    std::cout << total << std::endl;

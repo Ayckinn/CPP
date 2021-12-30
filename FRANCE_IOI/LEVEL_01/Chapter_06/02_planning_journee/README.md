@@ -6,7 +6,7 @@ LEVEL 01 --> CHAPTER 06 --> EXERCICE 02
 
 <div align="center">
     <img
-        src="https://github.com/Ayckinn/CPP/blob/main/FRANCE_IOI/LEVEL_01/Chapter_06/02_planning_journee/planning.png"
+        src="https://github.com/Ayckinn/CPP/blob/main/FRANCE_IOI/LEVEL_01/Chapter_06/02_planning_journee/todo.png"
         alt="DEMO"
         style="width:50%">
 </div>

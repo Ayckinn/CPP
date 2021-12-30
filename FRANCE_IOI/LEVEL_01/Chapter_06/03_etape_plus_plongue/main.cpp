@@ -15,16 +15,17 @@
 
 int main()
 {
-   int days(0);
-   int distance(0);
-   int max(0);
+   int days = 0;
+   int distance = 0;
+   int max = 0;
    
    INVERSION(days);
    std::cin >> days;
-
+   
    LOOP(days)
    {
       std::cin >> distance;
+      std::cout << "---MAX : " << max << " ---DIST : " << distance << std::endl;
       DISTANCE_MAX(max, distance);
    }
    std::cout << max << std::endl;

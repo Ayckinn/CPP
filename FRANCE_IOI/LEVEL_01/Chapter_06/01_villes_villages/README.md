@@ -6,7 +6,7 @@ LEVEL 01 --> CHAPTER 06 --> EXERCICE 01
 
 <div align="center">
     <img
-        src="https://github.com/Ayckinn/CPP/blob/main/FRANCE_IOI/LEVEL_01/Chapter_06/01_villes_villages/villes_villages.png"
+        src="https://github.com/Ayckinn/CPP/blob/main/FRANCE_IOI/LEVEL_01/Chapter_06/01_villes_villages/todo.png"
         alt="DEMO"
         style="width:50%">
 </div>

@@ -11,10 +11,10 @@
 
 int main()
 {
-   int age(0);
-   int poids_bagage(0);
+   int age = 0;
+   int bag_weight = 0;
 
-   std::cin >> age >> poids_bagage;
+   std::cin >> age >> bag_weight;
 
    if(age < 10)
       std::cout << 5 << std::endl;
@@ -24,7 +24,7 @@ int main()
          std::cout << 0 << std::endl;
       else
       {
-         if(poids_bagage >= 20)
+         if(bag_weight >= 20)
             std::cout << 40 << std::endl;
          else
             std::cout << 30 << std::endl;

@@ -6,7 +6,7 @@ LEVEL 01 --> CHAPTER 06 --> EXERCICE 06
 
 <div align="center">
     <img
-        src="https://github.com/Ayckinn/CPP/blob/main/FRANCE_IOI/LEVEL_01/Chapter_06/06_tarifs_auberge/tarifs.png"
+        src="https://github.com/Ayckinn/CPP/blob/main/FRANCE_IOI/LEVEL_01/Chapter_06/06_tarifs_auberge/todo.png"
         alt="DEMO"
         style="width:50%">
 </div>

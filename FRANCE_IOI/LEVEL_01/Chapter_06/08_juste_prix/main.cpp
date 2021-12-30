@@ -12,26 +12,26 @@
 
 int main()
 {
-   int marchands(1);
-   int prix(0);
-   int galette(1000 * 1000);
-   int pos(0);
-   int posMax(0);
+   int dealers = 1;
+   int price = 0;
+   int pancakes = 1000*1000;
+   int pos = 0;
+   int pos_max = 0;
 
-   std::cin >> marchands;
+   std::cin >> dealers;
 
-   LOOP(marchands)
+   LOOP(dealers)
    {
       pos++;
-      std::cin >> prix;
+      std::cin >> price;
       
-      if(prix <= galette) 
+      if(price <= pancakes) 
       {
-         galette = prix;
-         if(prix == galette)
-            posMax = pos;
+         pancakes = price;
+         if(price == pancakes)
+            pos_max = pos;
       }
    }
-   std::cout << posMax << std::endl;
+   std::cout << pos_max << std::endl;
    return 0;
 }

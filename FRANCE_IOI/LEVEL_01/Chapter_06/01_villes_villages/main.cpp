@@ -12,17 +12,18 @@
 
 int main()
 {
-   int ville(0);
-   int habitants(0);
-   int total(0);
+   int city = 0;
+   int people = 0;
+   int total = 0;
+   const int MAX_PEOPLE = 10000;
 
-   std::cin >> ville;
+   std::cin >> city;
 
-   LOOP(ville)
+   LOOP(city)
    {
-      std::cin >> habitants;
+      std::cin >> people;
       
-      if(habitants > 10000)
+      if(people > MAX_PEOPLE)
          total++;
    }
    std::cout << total << std::endl;

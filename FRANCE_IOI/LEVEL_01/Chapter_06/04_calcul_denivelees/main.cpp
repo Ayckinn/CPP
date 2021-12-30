@@ -12,25 +12,25 @@
 
 int main()
 {
-   int montees_descentes(0);
-   int variations(0);
-   int montees(0);
-   int descentes(0);
+   int up_n_down = 0;
+   int variations = 0;
+   int up = 0;
+   int down = 0;
 
-   std::cin >> montees_descentes;
+   std::cin >> up_n_down;
 
-   LOOP(montees_descentes)
+   LOOP(up_n_down)
    {
       std::cin >> variations;
 
       if(variations < 0)
-         descentes = descentes + variations;
+         down += variations;
       else
-         montees = montees + variations;
+         up += variations;
    }
-   if(descentes < 0)
-      descentes = -descentes;
+   if(down < 0)
+      down = -down;
 
-   std::cout << montees << std::endl << descentes << std::endl;
+   std::cout << up << std::endl << down << std::endl;
    return 0;
 }

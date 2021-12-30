@@ -12,17 +12,17 @@
 
 int main()
 {
-   int maison(0);
-   int xAxe(0);
-   int yAxe(0); 
-   int xMax(0);
-   int yMax(0);
-   int xMin(1000 * 1000); 
-   int yMin(1000 * 1000);
+   int house = 0;
+   int xAxe = 0;
+   int yAxe = 0; 
+   int xMax = 0;
+   int yMax = 0;
+   int xMin = 1000 * 1000; 
+   int yMin = 1000 * 1000;
 
-   std::cin >> maison;
+   std::cin >> house;
 
-   LOOP(maison)
+   LOOP(house)
    {
       std::cin >> xAxe >> yAxe;
       
@@ -35,10 +35,10 @@ int main()
       if(yAxe > yMax)
          yMax = yAxe;
    }
-   int xIntervalle = (xMax - xMin);
-   int yIntervalle = (yMax - yMin);
-   int perimetre = ((xIntervalle + yIntervalle) * 2);
+   int xInterval = (xMax - xMin);
+   int yInterval = (yMax - yMin);
+   int perimter = ((xInterval + yInterval) * 2);
    
-   std::cout << perimetre << std::endl;
+   std::cout << perimter << std::endl;
    return 0;
 }

@@ -11,8 +11,8 @@
 
 int main()
 {
-   int height(0);
-   int folioles(0);
+   int height = 0;
+   int folioles = 0;
 
    std::cin >> height >> folioles;
 
