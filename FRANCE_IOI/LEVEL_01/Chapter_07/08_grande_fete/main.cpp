@@ -12,12 +12,12 @@
 
 int main()
 {
-   int start_date(0);
-   int end_date(0);
-   int suspects(0);
-   int guests(0);
-   int start_guests(0);
-   int end_guests(0);
+   int start_date = 0;
+   int end_date = 0;
+   int suspects = 0;
+   int guests = 0;
+   int start_guests = 0;
+   int end_guests = 0;
 
    std::cin >> start_date >> end_date >> guests;
 

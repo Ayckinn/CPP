@@ -12,21 +12,21 @@
 
 int main()
 {
-   int dateDebut(0);
-   int dateFin(0);
-   int entrees(0);
-   int dateIntervalle(0);
-   int espion(0);
+   int start_date = 0;
+   int end_date = 0;
+   int entries = 0;
+   int interval_date = 0;
+   int spy = 0;
 
-   std::cin >> dateDebut >> dateFin >> entrees;
+   std::cin >> start_date >> end_date >> entries;
 
-   LOOP(entrees)
+   LOOP(entries)
    {
-      std::cin >> dateIntervalle;
+      std::cin >> interval_date;
 
-      if((dateIntervalle <= dateFin) && (dateIntervalle >= dateDebut))
-         espion++;
+      if((interval_date <= end_date) && (interval_date >= start_date))
+         spy++;
    }
-   std::cout << espion << std::endl;
+   std::cout << spy << std::endl;
    return 0;
 }

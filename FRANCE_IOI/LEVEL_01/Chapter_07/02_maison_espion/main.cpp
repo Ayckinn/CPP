@@ -12,27 +12,27 @@
 
 int main()
 {
-   int xMin(0);
-   int xMax(0);
-   int yMin(0);
-   int yMax(0);
-   int maisons(0);
-   int xMaison(0);
-   int yMaison(0);
-   int zone(0);
+   int xMin = 0;
+   int xMax = 0;
+   int yMin = 0;
+   int yMax = 0;
+   int houses = 0;
+   int xHouse = 0;
+   int yHouse = 0;
+   int area = 0;
 
-   std::cin >> xMin >> xMax >> yMin >> yMax >> maisons;
+   std::cin >> xMin >> xMax >> yMin >> yMax >> houses;
 
-   LOOP(maisons)
+   LOOP(houses)
    {
-      std::cin >> xMaison >> yMaison;
+      std::cin >> xHouse >> yHouse;
 
-      if((xMaison >= xMin) && (yMaison >= yMin))
+      if((xHouse >= xMin) && (yHouse >= yMin))
       {
-         if((xMaison <= xMax) && (yMaison <= yMax))
-            zone++;
+         if((xHouse <= xMax) && (yHouse <= yMax))
+            area++;
       }
    }
-   std::cout << zone << std::endl;
+   std::cout << area << std::endl;
    return 0;
 }

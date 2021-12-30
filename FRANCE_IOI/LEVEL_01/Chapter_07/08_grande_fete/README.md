@@ -6,7 +6,7 @@ LEVEL 01 --> CHAPTER 07 --> EXERCICE 08
 
 <div align="center">
     <img
-        src="https://github.com/Ayckinn/CPP/blob/main/FRANCE_IOI/LEVEL_01/Chapter_07/08_grande_fete/grande_fete.png"
+        src="https://github.com/Ayckinn/CPP/blob/main/FRANCE_IOI/LEVEL_01/Chapter_07/08_grande_fete/todo.png"
         alt="DEMO"
         style="width:50%">
 </div>

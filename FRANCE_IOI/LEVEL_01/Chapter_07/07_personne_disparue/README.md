@@ -6,7 +6,7 @@ LEVEL 01 --> CHAPTER 07 --> EXERCICE 07
 
 <div align="center">
     <img
-        src="https://github.com/Ayckinn/CPP/blob/main/FRANCE_IOI/LEVEL_01/Chapter_07/07_personne_disparue/disparue.png"
+        src="https://github.com/Ayckinn/CPP/blob/main/FRANCE_IOI/LEVEL_01/Chapter_07/07_personne_disparue/todo.png"
         alt="DEMO"
         style="width:50%">
 </div>

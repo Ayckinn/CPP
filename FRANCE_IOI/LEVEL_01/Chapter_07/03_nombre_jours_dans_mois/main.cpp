@@ -11,12 +11,12 @@
 
 int main()
 {
-   int choix(0);
-   std::cin >> choix;
+   int choice = 0;
+   std::cin >> choice;
 
-   if(((choix > 3) && (choix < 7)) || (choix == 10))
+   if(((choice > 3) && (choice < 7)) || (choice == 10))
       std::cout << 31 << std::endl;
-   else if(choix == 11)
+   else if(choice == 11)
       std::cout << 29 << std::endl;
    else
       std::cout << 30 << std::endl;

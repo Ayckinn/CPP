@@ -12,19 +12,19 @@
 
 int main()
 {
-   int paires(0);
-   int xMin0(0);
-   int xMax0(0);
-   int yMin0(0);
-   int yMax0(0);
-   int xMin1(0);
-   int xMax1(0);
-   int yMin1(0);
-   int yMax1(0);
+   int pairs = 0;
+   int xMin0 = 0;
+   int xMax0 = 0;
+   int yMin0 = 0;
+   int yMax0 = 0;
+   int xMin1 = 0;
+   int xMax1 = 0;
+   int yMin1 = 0;
+   int yMax1 = 0;
 
-   std::cin >> paires;
+   std::cin >> pairs;
    
-   LOOP(paires)
+   LOOP(pairs)
    {
       std::cin >> xMin0 >> xMax0 >> yMin0 >> yMax0 >> xMin1 >> xMax1 >> yMin1 >> yMax1;
 

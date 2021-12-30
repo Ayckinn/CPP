@@ -12,14 +12,14 @@
 
 int main()
 {
-   int invites(0);
-   int presence(0);
-   int max(0);
-   int total(0);
+   int guests = 0;
+   int presence = 0;
+   int max = 0;
+   int total = 0;
 
-   std::cin >> invites;
+   std::cin >> guests;
 
-   LOOP(invites * 2)
+   LOOP(guests * 2)
    {
       std::cin >> presence;
 

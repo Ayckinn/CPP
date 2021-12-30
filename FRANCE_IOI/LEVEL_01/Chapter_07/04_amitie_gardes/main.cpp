@@ -11,14 +11,14 @@
 
 int main()
 {
-   int soldatADebut(0);
-   int soldatAFin(0);
-   int soldatBDebut(0);
-   int soldatBFin(0);
+   int start_soldierA = 0;
+   int end_soldierA = 0;
+   int start_soldierB = 0;
+   int end_soldierB = 0;
 
-   std::cin >> soldatADebut >> soldatAFin >> soldatBDebut >> soldatBFin;
+   std::cin >> start_soldierA >> end_soldierA >> start_soldierB >> end_soldierB;
 
-   if((soldatAFin < soldatBDebut) || (soldatADebut > soldatBFin))
+   if((end_soldierA < start_soldierB) || (start_soldierA > end_soldierB))
       std::cout << "Pas amis" << std::endl;
    else
       std::cout << "Amis" << std::endl;

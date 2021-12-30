@@ -6,7 +6,7 @@ LEVEL 01 --> CHAPTER 07 --> EXERCICE 01
 
 <div align="center">
     <img
-        src="https://github.com/Ayckinn/CPP/blob/main/FRANCE_IOI/LEVEL_01/Chapter_07/01_espion_etranger/espion.png"
+        src="https://github.com/Ayckinn/CPP/blob/main/FRANCE_IOI/LEVEL_01/Chapter_07/01_espion_etranger/todo.png"
         alt="DEMO"
         style="width:50%">
 </div>

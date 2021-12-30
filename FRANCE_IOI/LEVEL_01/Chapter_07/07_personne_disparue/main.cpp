@@ -12,10 +12,10 @@
 
 int main()
 {
-   int idVIP(0);
-   int size_list(0);
-   int ids(0);
-   bool is_out(false);
+   int idVIP = 0;
+   int size_list = 0;
+   int ids = 0;
+   bool is_out = false;
    
    std::cin >> idVIP >> size_list;
 

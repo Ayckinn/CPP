@@ -12,12 +12,12 @@
 
 int main()
 {
-   int nb_people(0);
-   int height(0);
-   int age(0);
-   int weight(0);
-   int horse(0);
-   int brown(0);
+   int nb_people = 0;
+   int height = 0;
+   int age = 0;
+   int weight = 0;
+   int horse = 0;
+   int brown = 0;
 
    std::cin >> nb_people;
 
