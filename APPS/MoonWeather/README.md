@@ -1,4 +1,4 @@
-# **Moon Weather**
+# **Moon Weather v2.1**
 
 ### **HOW TO USE IT**
 ```./MoonWeather```
@@ -28,6 +28,11 @@
 
 ---
 ### **CHANGELOG**
+Version 2.1 : January 1st, 2022
+    
+     - Add [BROUILLARD] condition
+
+
 Version 2.0 : March 26' 2021
 
     - Add _Visibility_ informations

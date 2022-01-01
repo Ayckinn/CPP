@@ -16,9 +16,7 @@ MoonWeather::MoonWeather(QWidget *parent) : QWidget(parent), ui(new Ui::MoonWeat
     connect(moonTimer, &QTimer::timeout, this, &MoonWeather::ChangeMode);
     moonTimer->start();
 }
-
 MoonWeather::~MoonWeather() { delete ui; }
-
 
 //////////////////////////////////// MODES ////////////////////////////////////
 void MoonWeather::DayMode()
@@ -163,6 +161,7 @@ void MoonWeather::MoonConditions(QString pic1, QString pic2, QString pic3, QStri
     if(JSON_condition == "LÉGÈRE PLUIE") { ui->weather_pic->setPixmap(QPixmap(pic5)); }
     if(JSON_condition == "ORAGE") { ui->weather_pic->setPixmap(QPixmap(pic6)); }
     if(JSON_condition == "BRUME") { ui->weather_pic->setPixmap(QPixmap(pic7)); }
+    if(JSON_condition == "BROUILLARD") { ui->weather_pic->setPixmap(QPixmap(pic7)); }
 
     //qDebug() << "CONDITION   : " << JSON_condition;
 }

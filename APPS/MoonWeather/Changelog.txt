@@ -1,0 +1,14 @@
+CHANGELOG
+=========
+
+Version 2.1 - January 1st, 2022
+	- Add [BROUILLARD] condition
+
+Version 2.0 - March 26' 2021
+	- Add [Visibility] informations
+	- Add new icons
+	- Fix bugs 
+	- Update screenshot
+
+Version 1.0 - March 26' 2021
+	- Initial release
