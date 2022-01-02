@@ -4,19 +4,19 @@
     LANGUAGE  : C++
     LEVEL     : 02
     CHAPTER   : 01
-    EXERCICE  : 09
-    TITLE     : ACHATS DE LIVRES
+    EXERCICE  : 11
+    TITLE     : LA ROUE DE LA FORTUNE
  * =================================================== */
 #include <iostream>
 
 int main()
 {
-    int current_money = 0;
-    int price_book = 0;
-    std::cin >> current_money >> price_book;
+    int nb_cells = 0;
+    int wheel_cells = 24;
+    std::cin >> nb_cells;
 
-    int max_book = (current_money / price_book);
-    std::cout << max_book << std::endl;
+    int selective_cell = (((nb_cells % wheel_cells) + wheel_cells) % wheel_cells);
+    std::cout << selective_cell << std::endl;
 
     return 0;
 }
