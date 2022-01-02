@@ -1,4 +1,4 @@
-# LA ROUE DE LA FORTUNE - C++ Version
+# LA ROIUE DE LA FORTUNE - C++ Version
 LEVEL 02 --> CHAPTER 01 --> EXERCICE 11
 
 ---
