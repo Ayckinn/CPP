@@ -14,7 +14,7 @@ int main()
 {
     int number = 1;
     int multiply = 1;
-    int result =1;
+    int result = 1;
 
     LOOP(20)
     {
