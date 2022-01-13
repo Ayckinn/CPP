@@ -1,4 +1,4 @@
-# LE GRANDE BRADERIE - C++ Version
+# LA GRANDE BRADERIE - C++ Version
 LEVEL 01 --> CHAPTER 04 --> EXERCICE 07
 
 ---

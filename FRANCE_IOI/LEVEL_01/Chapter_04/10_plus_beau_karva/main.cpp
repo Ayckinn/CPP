@@ -15,8 +15,8 @@ int main()
     int nb_karva = 0;
     int weight = 0;
     int age = 0;
-    int horns(0);
-    int withers(0);
+    int horns = 0;
+    int withers = 0;
 
     std::cin >> nb_karva;
 

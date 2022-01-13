@@ -1,4 +1,4 @@
-# TARIF DU BATEAU- C++ Version
+# TARIF DU BATEAU - C++ Version
 LEVEL 01 --> CHAPTER 05 --> EXERCICE 05
 
 ---

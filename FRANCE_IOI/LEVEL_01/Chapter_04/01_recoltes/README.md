@@ -1,4 +1,4 @@
-# RECOLTES- C++ Version
+# RECOLTES - C++ Version
 LEVEL 01 --> CHAPTER 04 --> EXERCICE 01
 
 ---
