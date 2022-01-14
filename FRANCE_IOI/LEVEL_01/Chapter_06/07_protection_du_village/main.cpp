@@ -37,8 +37,8 @@ int main()
    }
    int xInterval = (xMax - xMin);
    int yInterval = (yMax - yMin);
-   int perimter = ((xInterval + yInterval) * 2);
+   int perimeter = ((xInterval + yInterval) * 2);
    
-   std::cout << perimter << std::endl;
+   std::cout << perimeter << std::endl;
    return 0;
 }

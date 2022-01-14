@@ -25,7 +25,6 @@ int main()
    LOOP(days)
    {
       std::cin >> distance;
-      std::cout << "---MAX : " << max << " ---DIST : " << distance << std::endl;
       DISTANCE_MAX(max, distance);
    }
    std::cout << max << std::endl;
