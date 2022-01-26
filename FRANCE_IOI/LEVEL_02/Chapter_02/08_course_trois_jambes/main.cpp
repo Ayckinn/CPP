@@ -28,11 +28,11 @@ int main()
 }
 
 /**
- * Display index order from the smallest to the biggest :: 
+ * Display index order from the smallest to the biggest (explanations with 10 players for the demo) 
  *                  choices[i] << " " << choices[players - 1 - i]
- *   First loop  =       0                        9
- *   Second loop =       1                        8
- *   Third loop  =       2                        7
- *   Fourth loop =       3                        6
- *   Fifth loop  =       4                        5 
+ *   First loop  =       0             10 - 1 - 0 = 9
+ *   Second loop =       1             10 - 1 - 1 = 8
+ *   Third loop  =       2             10 - 1 - 2 = 7
+ *   Fourth loop =       3             10 - 1 - 3 = 6
+ *   Fifth loop  =       4             10 - 1 - 4 = 5 
  * **/
