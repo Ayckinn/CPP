@@ -14,4 +14,4 @@ LEVEL 02 --> CHAPTER 02 --> EXERCICE 08
 ---
 ### **RELEASE**
 
-- January 6th, 2022
+- January 26th, 2022
