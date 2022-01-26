@@ -1,9 +1,10 @@
-/* =============== DESCRIPT=================== *
+/* ============ DESCRIPTION ============ *
     AUTHOR    : Ayckinn
     COPYRIGHT : ©2022
     LANGUAGE  : C++
     TITLE     : XMAS TREE
- * =========================================== */
+ * ===================================== */
+
 #include <iostream>
 #include <string>
 
