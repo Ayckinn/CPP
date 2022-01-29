@@ -31,6 +31,7 @@ int main()
     return 0;
 }
 
+
 /*
 OTHER METHOD
 ------------
@@ -50,5 +51,7 @@ int main()
       if(i % 2 == 1)  //-- Modulo result = 0 = EVEN :: 1 = ODD
          std::cout << text << std::endl;
    }
+
+   return 0;
 }
 */
