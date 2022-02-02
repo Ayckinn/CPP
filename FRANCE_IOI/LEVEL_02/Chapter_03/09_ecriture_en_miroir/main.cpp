@@ -23,9 +23,8 @@ int main()
         
         //-- Display letters from text from the end to the beginning
         for(int letter = text.length() - 1; letter >= 0; letter--)
-        {
             std::cout << text[letter];
-        }
+        
         std::cout << std::endl;
     }
     return 0;
