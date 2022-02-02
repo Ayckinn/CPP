@@ -30,27 +30,3 @@ int main()
     }
     return 0;
 }
-
-/*
-Contraintes
-Chaque ligne de texte contient moins de 1000 caractères.
-
-Entrée
-Sur la première ligne, un entier nbLignes, le nombre de lignes du texte.
-Les nbLignes suivantes contiennent chacune une ligne de texte qu’il faut inverser.
-
-Sortie
-Pour chaque ligne du texte original, vous devez l’afficher de manière inversée.
-
-
-
-entrée :
-2
-tniop a ritrap tuaf li riruoc ed tres en neiR
-egangiomet nu tnos ne eutroT al te erveiL eL
-
-
-sortie :
-Rien ne sert de courir il faut partir a point
-Le Lievre et la Tortue en sont un temoignage
-*/
