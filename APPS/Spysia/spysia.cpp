@@ -6,7 +6,7 @@
 //===============================================================================================//
 void checkPath(std::string pathA, std::string pathB, std::string pathC, std::string (pathD), std::string here, std::string missing)
 {
-	if(std::filesystem::exists(pathA) || std::filesystem::exists(pathB) || std::filesystem::exists(pathC) || std::filesystem::exists(pathC))
+	if(std::filesystem::exists(pathA) || std::filesystem::exists(pathB) || std::filesystem::exists(pathC) || std::filesystem::exists(pathD))
 		std::system(here.c_str());
 	else
 		std::cout << missing;
@@ -256,7 +256,7 @@ int main()
 		"echo \"\t  \033[1;32m✓      \033[1;35mgsmartcontrol \033[1;37m|\033[1;33m\" $(gsmartcontrol --version | head -n2 | cut -d \" \" -f3 | tail +2)", \
 		"\t  \033[1;31m✗      gsmartcontrol \033[1;37m| \033[1;31mNot installed - $> sudo apt install gsmartcontrol\n");
 
-	checkPath("/usr/bin/libreoffice", "/usr/sbin/libreoffice", "/usr/bin/libreoffice", "/snap/bin/libreoffice", \
+	checkPath("/usr/bin/libreoffice", "/usr/sbin/libreoffice", "/usr/local/bin/libreoffice", "/snap/bin/libreoffice", \
 		"echo \"\t  \033[1;32m✓        \033[1;35mlibreoffice \033[1;37m|\033[1;33m\" $(libreoffice --version | cut -d \" \" -f2)", \
 		"\t  \033[1;31m✗        libreoffice \033[1;37m| \033[1;31mNot installed - $> sudo snap install libreoffice -or- $> sudo apt install libreoffice-common\n");
 
@@ -280,7 +280,7 @@ int main()
 		"echo \"\t  \033[1;32m✓        \033[1;35mthunderbird \033[1;37m|\033[1;33m\" $(thunderbird --version | cut -d \" \" -f3)", \
 		"\t  \033[1;31m✗        thunderbird \033[1;37m| \033[1;31mNot installed - $> sudo apt install thunderbird\n");
 
-	checkPath("/usr/bin/vlc", "/usr/sbin/vlc", "/usr/bin/vlc", "/snap/bin/vlc", \
+	checkPath("/usr/bin/vlc", "/usr/sbin/vlc", "/usr/local/bin/vlc", "/snap/bin/vlc", \
 		"echo \"\t  \033[1;32m✓                \033[1;35mvlc \033[1;37m|\033[1;33m\" $(vlc --version 2>&1 < /dev/null | head -n1 | cut -d \" \" -f3)", \
 		"\t  \033[1;31m✗                vlc \033[1;37m| \033[1;31mNot installed - $> sudo snap install vlc\n");
     std::cout << std::endl;
