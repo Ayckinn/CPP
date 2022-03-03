@@ -1,13 +1,11 @@
-# **SPYCIA v1.0**
+# **SPYCIA v1.0 - For Linux**
 
 ### **HOW TO USE IT**
-```./spysia```
-
-*For Linux*
+```./spysia``` or ```spysia```
 
 To use ```spysia``` simple command,  you have to copy ```spysia``` in the following folder :  
     
-    - ```sudo cp -v /usr/local/bin```
+```sudo cp -v /usr/local/bin```
 
 ---
 ### **SCREENSHOT**
