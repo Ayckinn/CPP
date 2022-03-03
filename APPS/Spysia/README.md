@@ -3,9 +3,9 @@
 ### **HOW TO USE IT**
 ```./spysia``` or ```spysia```
 
-To use ```spysia``` simple command,  you have to copy ```spysia``` in the following folder :  
+To use ```spysia``` simple command,  you have to copy the file in the following directory :  
     
-```sudo cp -v /usr/local/bin```
+```sudo cp -v spysia /usr/local/bin```
 
 ---
 ### **SCREENSHOT**
