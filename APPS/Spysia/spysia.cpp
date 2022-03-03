@@ -134,8 +134,8 @@ int main()
 		"\t  \033[1;31m✗                tar \033[1;37m| \033[1;31mNot installed - $> sudo apt install tar\n");
 
 	checkPath("/usr/bin/tree","/usr/sbin/tree", "/usr/local/bin/tree", "/snap/bin/tree", \
-		"echo \"\t  \033[1;32m✓                \033[1;35mtar \033[1;37m|\033[1;33m\" $(tree --version | cut -c 6-11)", \
-		"\t  \033[1;31m✗                tree \033[1;37m| \033[1;31mNot installed - $> sudo apt install tree\n");
+		"echo \"\t  \033[1;32m✓               \033[1;35mtree \033[1;37m|\033[1;33m\" $(tree --version | cut -c 7-11)", \
+		"\t  \033[1;31m✗               tree \033[1;37m| \033[1;31mNot installed - $> sudo apt install tree\n");
 
 	checkPath("/usr/bin/uptime","/usr/sbin/uptime", "/usr/local/bin/uptime", "/snap/bin/uptime", \
 		"echo \"\t  \033[1;32m✓             \033[1;35muptime \033[1;37m|\033[1;33m\" $(uptime --version | head -n1 | cut -d \" \" -f4)", \
@@ -215,7 +215,7 @@ int main()
 		"echo \"\t  \033[1;32m✓                \033[1;35mvim \033[1;37m|\033[1;33m\" $(vim --version | head -n1 | cut -d \" \" -f5-5)", \
 		"\t  \033[1;31m✗                vim \033[1;37m| \033[1;31mNot installed - $> sudo apt install vim\n");
 
-	checkPath("/usr/bin/wordgrinder", "/usr/sbin/wordgrinder", "/usr/local/bin/wordgrinder", "/snap/bin/", \
+	checkPath("/usr/bin/wordgrinder", "/usr/sbin/wordgrinder", "/usr/local/bin/wordgrinder", "/snap/bin/wordgrinder", \
 		"echo \"\t  \033[1;32m✓        \033[1;35mwordgrinder \033[1;37m|\033[1;33m\" $(wordgrinder -h | head -n1 | cut -d \" \" -f3)", \
 		"\t  \033[1;31m✗        wordgrinder \033[1;37m| \033[1;31mNot installed - $> sudo apt install wordgrinder\n");
     std::cout << std::endl;
