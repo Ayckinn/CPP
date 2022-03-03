@@ -4,8 +4,10 @@
 ```./spysia```
 
 *For Linux*
+
 To use ```spysia``` simple command,  you have to copy ```spysia``` in the following folder :  
-    - $> sudo cp -v /usr/local/bin
+    
+    - ```sudo cp -v /usr/local/bin```
 
 ---
 ### **SCREENSHOT**
