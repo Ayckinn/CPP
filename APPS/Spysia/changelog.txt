@@ -1,8 +1,0 @@
-	
-	=============
-	= CHANGELOG =
-	=============
-
-
-	Version 1.0 - MArch 1st, 2022
-		- Initial release
