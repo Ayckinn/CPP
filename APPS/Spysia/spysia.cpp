@@ -205,6 +205,10 @@ int main()
 		"echo \"\t  \033[1;32m✓            \033[1;35mmplayer \033[1;37m|\033[1;33m\" $(mplayer -v | head -n1 | cut -d \" \" -f2)", \
 		"\t  \033[1;31m✗            mplayer \033[1;37m| \033[1;31mNot installed - $> sudo apt install mplayer\n");
 
+	checkPath("nano", \
+		"echo \"\t  \033[1;32m✓               \033[1;35mnano \033[1;37m|\033[1;33m\" $(nano --version | head -n1 | cut -d \" \" -f5)", \
+		"\t  \033[1;31m✗               nano \033[1;37m| \033[1;31mNot installed - $> sudo apt install nano\n");
+
 	checkPath("neofetch", \
 		"echo \"\t  \033[1;32m✓           \033[1;35mneofetch \033[1;37m|\033[1;33m\" $(neofetch --version | cut -d \" \" -f2)", \
 		"\t  \033[1;31m✗           neofetch \033[1;37m| \033[1;31mNot installed - $> sudo apt install neofetch\n");

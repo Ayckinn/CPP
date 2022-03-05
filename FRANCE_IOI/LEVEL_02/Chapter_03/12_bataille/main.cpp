@@ -5,7 +5,7 @@
     LEVEL     : 02
     CHAPTER   : 03
     EXERCICE  : 12
-    TITLE     : LA BATAILL
+    TITLE     : LA BATAILLE
  * ===================================================== */
 #include <iostream>
 #include <string>
