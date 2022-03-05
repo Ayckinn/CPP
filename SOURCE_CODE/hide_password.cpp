@@ -7,13 +7,12 @@ int main()
     std::string root_pass = "read -r password";
     std::string user_pass = "read -r password";
 
-    std::cout << "Enter root password : ";
     std::system("stty -echo");
+    std::cout << "Enter root password : ";
     std::cin >> root_pass;
 
     std::cout << "\nEnter user password : ";
     std::cin >> user_pass;
-
     std::system("stty echo");
     
     if(user_pass == root_pass)
