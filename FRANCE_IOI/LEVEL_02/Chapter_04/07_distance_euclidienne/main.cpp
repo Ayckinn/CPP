@@ -20,10 +20,8 @@ int main()
 {
     double px1, py1, px2, py2;
     std::cin >> px1 >> py1 >> px2 >> py2;
-   
-    double distance = coords(px1, py1, px2, py2);
     //-- Fixed 6 digits after the decimal
-    std::cout << std::fixed << std::setprecision(6) << distance << std::endl;
+    std::cout << std::fixed << std::setprecision(6) << coords(px1, py1, px2, py2) << std::endl;
 
     return 0;
 }
