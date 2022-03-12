@@ -1,12 +1,12 @@
-/* =================== DESCRIPTION =================== *
-    AUTHOR    : Ayckinn
-    COPYRIGHT : ©2021
-    LANGUAGE  : C++
-    LEVEL     : 02
-    CHAPTER   : 01
-    EXERCICE  : 05
-    TITLE     : AUGMENTATION DE LA POPULATION
- * =================================================== */
+/* ==================== DESCRIPTION ==================== *
+        AUTHOR | Ayckinn
+     COPYRIGHT | ©2021
+      LANGUAGE | C++
+         LEVEL | 02
+       CHAPTER | 01
+      EXERCICE | 05
+         TITLE | AUGEMENTATION DE LA POPULATION
+ * ===================================================== */
 #include <iostream>
 
 int main()

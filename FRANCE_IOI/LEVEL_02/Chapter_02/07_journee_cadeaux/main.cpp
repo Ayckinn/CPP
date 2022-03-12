@@ -1,12 +1,12 @@
-/* =================== DESCRIPTION =================== *
-    AUTHOR    : Ayckinn
-    COPYRIGHT : ©2022
-    LANGUAGE  : C++
-    LEVEL     : 02
-    CHAPTER   : 02
-    EXERCICE  : 07
-    TITLE     : JOURNEE DES CADEAUX
- * =================================================== */
+/* ==================== DESCRIPTION ==================== *
+        AUTHOR | Ayckinn
+     COPYRIGHT | ©2022
+      LANGUAGE | C++
+         LEVEL | 02
+       CHAPTER | 02
+      EXERCICE | 07
+         TITLE | JOURNEE DES CADEAUX
+ * ===================================================== */
 #include <iostream>
 #include <algorithm>  //-- To use the [sort] function
 

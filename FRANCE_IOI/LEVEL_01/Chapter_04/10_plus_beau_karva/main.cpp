@@ -1,12 +1,12 @@
-/* =================== DESCRIPTION =================== *
-    AUTHOR    : Ayckinn
-    COPYRIGHT : ©2021
-    LANGUAGE  : C++
-    LEVEL     : 01
-    CHAPTER   : 04
-    EXERCICE  : 10
-    TITLE     : LE PLUS BEAU KARVA
- * =================================================== */
+/* ==================== DESCRIPTION ==================== *
+        AUTHOR | Ayckinn
+     COPYRIGHT | ©2021
+      LANGUAGE | C++
+         LEVEL | 01
+       CHAPTER | 04
+      EXERCICE | 10
+         TITLE | LE PLUS BEAU KARVA
+ * ===================================================== */
 #include <iostream>
 #define LOOP(repeat) for(int i = 0; i < repeat; i++)
 

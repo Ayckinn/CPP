@@ -1,12 +1,12 @@
-/* =================== DESCRIPTION =================== *
-    AUTHOR    : Ayckinn
-    COPYRIGHT : ©2021
-    LANGUAGE  : C++
-    LEVEL     : 01
-    CHAPTER   : 04
-    EXERCICE  : 02
-    TITLE     : RETRAITE SPIRITUELLE
- * =================================================== */
+/* ==================== DESCRIPTION ==================== *
+        AUTHOR | Ayckinn
+     COPYRIGHT | ©2021
+      LANGUAGE | C++
+         LEVEL | 01
+       CHAPTER | 04
+      EXERCICE | 02
+         TITLE | RETRAITE SPITITUELLE
+ * ===================================================== */
 #include <iostream>
 
 int main()

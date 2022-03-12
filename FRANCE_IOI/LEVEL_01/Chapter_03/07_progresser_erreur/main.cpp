@@ -1,12 +1,12 @@
-/* =================== DESCRIPTION =================== *
-    AUTHOR    : Ayckinn
-    COPYRIGHT : ©2021
-    LANGUAGE  : C++
-    LEVEL     : 01
-    CHAPTER   : 03
-    EXERCICE  : 07
-    TITLE     : PROGRESSER PAR L'ERREUR
- * =================================================== */
+/* ==================== DESCRIPTION ==================== *
+        AUTHOR | Ayckinn
+     COPYRIGHT | ©2021
+      LANGUAGE | C++
+         LEVEL | 01
+       CHAPTER | 03
+      EXERCICE | 07
+         TITLE | PROGRESSER PAR L'ERREUR
+ * ===================================================== */
 #include <iostream>
 
 int main()

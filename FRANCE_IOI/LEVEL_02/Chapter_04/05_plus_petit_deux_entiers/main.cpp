@@ -1,11 +1,11 @@
 /* ==================== DESCRIPTION ==================== *
-    AUTHOR    : Ayckinn
-    COPYRIGHT : ©2022
-    LANGUAGE  : C++
-    LEVEL     : 02
-    CHAPTER   : 04
-    EXERCICE  : 05
-    TITLE     : LE PLUS PETIT DE DEUX ENTIERS
+        AUTHOR | Ayckinn
+     COPYRIGHT | ©2022
+      LANGUAGE | C++
+         LEVEL | 02
+       CHAPTER | 04
+      EXERCICE | 05
+         TITLE | LE PLUS PETIT DE DEUX ENTIERS
  * ===================================================== */
 #include <iostream>
 
@@ -16,7 +16,7 @@ int min2(int min, int usr_nb)
     else
         return usr_nb;
 }
-
+//=========================================================
 int main()
 {
     int user_number = 0;

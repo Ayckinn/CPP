@@ -1,12 +1,12 @@
-/* =================== DESCRIPTION =================== *
-    AUTHOR    : Ayckinn
-    COPYRIGHT : ©2021
-    LANGUAGE  : C++
-    LEVEL     : 01
-    CHAPTER   : 07
-    EXERCICE  : 06
-    TITLE     : CASERNES DE POMPIERS
- * =================================================== */
+/* ==================== DESCRIPTION ==================== *
+        AUTHOR | Ayckinn
+     COPYRIGHT | ©2021
+      LANGUAGE | C++
+         LEVEL | 01
+       CHAPTER | 07
+      EXERCICE | 06
+         TITLE | CASERNES DE POMPIERS
+ * ===================================================== */
 #include <iostream>
 #define LOOP(repeat) for(int i = 0; i < repeat; i++)
 

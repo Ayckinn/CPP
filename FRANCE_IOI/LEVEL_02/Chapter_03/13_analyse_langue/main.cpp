@@ -1,11 +1,11 @@
 /* ==================== DESCRIPTION ==================== *
-    AUTHOR    : Ayckinn
-    COPYRIGHT : ©2022
-    LANGUAGE  : C++
-    LEVEL     : 02
-    CHAPTER   : 03
-    EXERCICE  : 13
-    TITLE     : ANALYSE D'UNE LANGUE
+        AUTHOR | Ayckinn
+     COPYRIGHT | ©2022
+      LANGUAGE | C++
+         LEVEL | 02
+       CHAPTER | 03
+      EXERCICE | 13
+         TITLE | ANALYSE D'UNE LANGUE
  * ===================================================== */
 #include <iostream>
 #include <string>

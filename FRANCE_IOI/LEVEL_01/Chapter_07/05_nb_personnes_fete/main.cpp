@@ -1,12 +1,12 @@
-/* =================== DESCRIPTION =================== *
-    AUTHOR    : Ayckinn
-    COPYRIGHT : ©2021
-    LANGUAGE  : C++
-    LEVEL     : 01
-    CHAPTER   : 07
-    EXERCICE  : 05
-    TITLE     : NOMBRE DE PERSONNES A LA FETE
- * =================================================== */
+/* ==================== DESCRIPTION ==================== *
+        AUTHOR | Ayckinn
+     COPYRIGHT | ©2021
+      LANGUAGE | C++
+         LEVEL | 01
+       CHAPTER | 07
+      EXERCICE | 05
+         TITLE | NOMBRE DE PERSONNES A LA FETE
+ * ===================================================== */
 #include <iostream>
 #define LOOP(repeat) for(int i = 0; i < repeat; i++)
 

@@ -1,12 +1,12 @@
-/* =================== DESCRIPTION =================== *
-    AUTHOR    : Ayckinn
-    COPYRIGHT : ©2021
-    LANGUAGE  : C++
-    LEVEL     : 01
-    CHAPTER   : 02
-    EXERCICE  : 10
-    TITLE     : LE GRAND EVENEMENT
- * =================================================== */
+/* ==================== DESCRIPTION ==================== *
+        AUTHOR | Ayckinn
+     COPYRIGHT | ©2021
+      LANGUAGE | C++
+         LEVEL | 01
+       CHAPTER | 02
+      EXERCICE | 10
+         TITLE | LE GRAND EVENEMENT
+ * ===================================================== */
 #include <iostream>
 #include "robot.h"
 

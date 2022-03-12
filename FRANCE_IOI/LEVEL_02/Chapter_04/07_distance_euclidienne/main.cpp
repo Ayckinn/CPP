@@ -1,11 +1,11 @@
 /* ==================== DESCRIPTION ==================== *
-    AUTHOR    : Ayckinn
-    COPYRIGHT : ©2022
-    LANGUAGE  : C++
-    LEVEL     : 02
-    CHAPTER   : 04
-    EXERCICE  : 07
-    TITLE     : DISTANCE EUCLIDIENNE
+        AUTHOR | Ayckinn
+     COPYRIGHT | ©2022
+      LANGUAGE | C++
+         LEVEL | 02
+       CHAPTER | 04
+      EXERCICE | 07
+         TITLE | DISTANCE EUCLIDIENNE
  * ===================================================== */
 #include <iostream>
 #include <cmath>
@@ -15,7 +15,7 @@ double coords(double x1, double y1, double x2, double y2)
 {
     return sqrt(pow((x2 - x1), 2) + pow((y2 - y1), 2));
 }
-
+//=========================================================
 int main()
 {
     double px1, py1, px2, py2;

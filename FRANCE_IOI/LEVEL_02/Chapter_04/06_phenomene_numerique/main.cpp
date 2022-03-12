@@ -1,11 +1,11 @@
 /* ==================== DESCRIPTION ==================== *
-    AUTHOR    : Ayckinn
-    COPYRIGHT : ©2022
-    LANGUAGE  : C++
-    LEVEL     : 02
-    CHAPTER   : 04
-    EXERCICE  : 06
-    TITLE     : PHENOMENE NUMERIQUE
+        AUTHOR | Ayckinn
+     COPYRIGHT | ©2022
+      LANGUAGE | C++
+         LEVEL | 02
+       CHAPTER | 04
+      EXERCICE | 06
+         TITLE | PHENOMENE NUMERIQUE
  * ===================================================== */
 #include <iostream>
 
@@ -16,7 +16,7 @@ int term(int number)
     else
         return (number * 3 + 1);
 }
-
+//=========================================================
 int main()
 {
     int term_nb = 0;

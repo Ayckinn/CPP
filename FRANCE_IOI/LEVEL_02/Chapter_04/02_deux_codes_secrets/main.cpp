@@ -1,11 +1,11 @@
 /* ==================== DESCRIPTION ==================== *
-    AUTHOR    : Ayckinn
-    COPYRIGHT : ©2022
-    LANGUAGE  : C++
-    LEVEL     : 02
-    CHAPTER   : 04
-    EXERCICE  : 02
-    TITLE     : DEUX CODES SECRETS
+        AUTHOR | Ayckinn
+     COPYRIGHT | ©2022
+      LANGUAGE | C++
+         LEVEL | 02
+       CHAPTER | 04
+      EXERCICE | 02
+         TITLE | DEUX CODES SECRETS
  * ===================================================== */
 #include <iostream>
 
@@ -20,7 +20,7 @@ void enterPassword(int pass)
 	}
 	return;
 }
-
+//=========================================================
 int main()
 {
 	enterPassword(4242);

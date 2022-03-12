@@ -1,11 +1,11 @@
 /* ==================== DESCRIPTION ==================== *
-    AUTHOR    : Ayckinn
-    COPYRIGHT : ©2022
-    LANGUAGE  : C++
-    LEVEL     : 02
-    CHAPTER   : 03
-    EXERCICE  : 02
-    TITLE     : PRIORITE ALPHABETIQUE
+        AUTHOR | Ayckinn
+     COPYRIGHT | ©2022
+      LANGUAGE | C++
+         LEVEL | 02
+       CHAPTER | 03
+      EXERCICE | 02
+         TITLE | PRIORITE ALPHABETIQUE
  * ===================================================== */
 #include <iostream>
 #include <string>

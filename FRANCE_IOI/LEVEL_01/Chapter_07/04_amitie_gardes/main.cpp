@@ -1,12 +1,12 @@
-/* =================== DESCRIPTION =================== *
-    AUTHOR    : Ayckinn
-    COPYRIGHT : ©2021
-    LANGUAGE  : C++
-    LEVEL     : 01
-    CHAPTER   : 07
-    EXERCICE  : 04
-    TITLE     : AMITIE ENTRE GARDES
- * =================================================== */
+/* ==================== DESCRIPTION ==================== *
+        AUTHOR | Ayckinn
+     COPYRIGHT | ©2021
+      LANGUAGE | C++
+         LEVEL | 01
+       CHAPTER | 07
+      EXERCICE | 04
+         TITLE | AMITIE ENTRE GARDES
+ * ===================================================== */
 #include <iostream>
 
 int main()

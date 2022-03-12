@@ -1,12 +1,12 @@
-/* =================== DESCRIPTION =================== *
-    AUTHOR    : Ayckinn
-    COPYRIGHT : ©2022
-    LANGUAGE  : C++
-    LEVEL     : 02
-    CHAPTER   : 02
-    EXERCICE  : 05
-    TITLE     : REPARTITION DU POIDS
- * =================================================== */
+/* ==================== DESCRIPTION ==================== *
+        AUTHOR | Ayckinn
+     COPYRIGHT | ©2022
+      LANGUAGE | C++
+         LEVEL | 02
+       CHAPTER | 02
+      EXERCICE | 05
+         TITLE | REPARTITION DU POIDS
+ * ===================================================== */
 #include <iostream>
 
 int main()

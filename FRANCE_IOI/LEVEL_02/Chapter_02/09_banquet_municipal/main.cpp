@@ -1,12 +1,12 @@
-/* =================== DESCRIPTION =================== *
-    AUTHOR    : Ayckinn
-    COPYRIGHT : ©2022
-    LANGUAGE  : C++
-    LEVEL     : 02
-    CHAPTER   : 02
-    EXERCICE  : 09
-    TITLE     : BANQUET MUNICIPAL
- * =================================================== */
+/* ==================== DESCRIPTION ==================== *
+        AUTHOR | Ayckinn
+     COPYRIGHT | ©2022
+      LANGUAGE | C++
+         LEVEL | 02
+       CHAPTER | 02
+      EXERCICE | 09
+         TITLE | BANQUET MUNICIPAL
+ * ===================================================== */
 #include <iostream>
 
 int main()

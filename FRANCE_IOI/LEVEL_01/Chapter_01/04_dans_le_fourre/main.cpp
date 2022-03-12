@@ -1,12 +1,12 @@
-/* =================== DESCRIPTION =================== *
-    AUTHOR    : Ayckinn
-    COPYRIGHT : ©2021
-    LANGUAGE  : C++
-    LEVEL     : 01
-    CHAPTER   : 01
-    EXERCICE  : 04
-    TITLE     : DANS LE FOURRE
- * =================================================== */
+/* ==================== DESCRIPTION ==================== *
+        AUTHOR | Ayckinn
+     COPYRIGHT | ©2021
+      LANGUAGE | C++
+         LEVEL | 01
+       CHAPTER | 01
+      EXERCICE | 04
+         TITLE | DANS LE FOURRE
+ * ===================================================== */
 #include <iostream>
 #include <robot.h>
 

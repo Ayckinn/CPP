@@ -1,12 +1,12 @@
-/* =================== DESCRIPTION =================== *
-    AUTHOR    : Ayckinn
-    COPYRIGHT : ©2021
-    LANGUAGE  : C++
-    LEVEL     : 01
-    CHAPTER   : 06
-    EXERCICE  : 03
-    TITLE     : ETAPE LA PLUS LONGUE
- * =================================================== */
+/* ==================== DESCRIPTION ==================== *
+        AUTHOR | Ayckinn
+     COPYRIGHT | ©2021
+      LANGUAGE | C++
+         LEVEL | 01
+       CHAPTER | 06
+      EXERCICE | 03
+         TITLE | ETAPE LA PLUS LONGUE
+ * ===================================================== */
 #include <iostream>
 
 #define LOOP(repeat) for(int i = 0; i < repeat; i++)

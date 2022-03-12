@@ -1,12 +1,12 @@
-/* =================== DESCRIPTION =================== *
-    AUTHOR    : Ayckinn
-    COPYRIGHT : ©2021
-    LANGUAGE  : C++
-    LEVEL     : 02
-    CHAPTER   : 01
-    EXERCICE  : 04
-    TITLE     : MOYENNE DES NOTES
- * =================================================== */
+/* ==================== DESCRIPTION ==================== *
+        AUTHOR | Ayckinn
+     COPYRIGHT | ©2021
+      LANGUAGE | C++
+         LEVEL | 02
+       CHAPTER | 01
+      EXERCICE | 04
+         TITLE | MOYENNE DES NOTES
+ * ===================================================== */
 #include <iostream>
 #define LOOP(repeat) for(int i = 0; i < repeat; i++)
 

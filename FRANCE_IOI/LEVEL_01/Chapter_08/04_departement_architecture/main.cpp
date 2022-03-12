@@ -1,12 +1,12 @@
-/* =================== DESCRIPTION =================== *
-    AUTHOR    : Ayckinn
-    COPYRIGHT : ©2021
-    LANGUAGE  : C++
-    LEVEL     : 01
-    CHAPTER   : 08
-    EXERCICE  : 04
-    TITLE     : DEPARTEMENT D'ARCHITECTURE : CONSTRUCTION D'UNE PYRAMIDE
- * =================================================== */
+/* ==================== DESCRIPTION ==================== *
+        AUTHOR | Ayckinn
+     COPYRIGHT | ©2021
+      LANGUAGE | C++
+         LEVEL | 01
+       CHAPTER | 08
+      EXERCICE | 04
+         TITLE | DEPARTEMENT D'ARCHITECTURE : CONSTRUCTION D'UNE PYRAMIDE
+ * ===================================================== */
 #include <iostream>
 
 int main()

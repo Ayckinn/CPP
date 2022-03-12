@@ -1,12 +1,12 @@
-/* =================== DESCRIPTION =================== *
-    AUTHOR    : Ayckinn
-    COPYRIGHT : ©2021
-    LANGUAGE  : C++
-    LEVEL     : 01
-    CHAPTER   : 08
-    EXERCICE  : 03
-    TITLE     : DEPARTEMENT DE PEDAGOGIE : LE «C'EST PLUS, C'EST MOINS»
- * =================================================== */
+/* ==================== DESCRIPTION ==================== *
+        AUTHOR | Ayckinn
+     COPYRIGHT | ©2021
+      LANGUAGE | C++
+         LEVEL | 01
+       CHAPTER | 08
+      EXERCICE | 03
+         TITLE | DEPARTEMENT DE PEDAGOGIE : LE «C'EST PLUS, C'EST MOINS»
+ * ===================================================== */
 #include <iostream>
 
 int main()

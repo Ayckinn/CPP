@@ -1,12 +1,12 @@
-/* =================== DESCRIPTION =================== *
-    AUTHOR    : Ayckinn
-    COPYRIGHT : ©2022
-    LANGUAGE  : C++
-    LEVEL     : 02
-    CHAPTER   : 02
-    EXERCICE  : 01
-    TITLE     : PREPARATION DE L'ONGUENT
- * =================================================== */
+/* ==================== DESCRIPTION ==================== *
+        AUTHOR | Ayckinn
+     COPYRIGHT | ©2022
+      LANGUAGE | C++
+         LEVEL | 02
+       CHAPTER | 02
+      EXERCICE | 01
+         TITLE | PREPARATION DE L'ONCUENT
+ * ===================================================== */
 #include <iostream>
 
 int main()

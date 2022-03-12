@@ -1,12 +1,12 @@
-/* =================== DESCRIPTION =================== *
-    AUTHOR    : Ayckinn
-    COPYRIGHT : ©2021
-    LANGUAGE  : C++
-    LEVEL     : 02
-    CHAPTER   : 01
-    EXERCICE  : 06
-    TITLE     : CONSTRUCTION DE MAISONS
- * =================================================== */
+/* ==================== DESCRIPTION ==================== *
+        AUTHOR | Ayckinn
+     COPYRIGHT | ©2021
+      LANGUAGE | C++
+         LEVEL | 02
+       CHAPTER | 01
+      EXERCICE | 06
+         TITLE | CONSTRUCTION DE MAISONS
+ * ===================================================== */
 #include <iostream>
 #include <cmath>
 

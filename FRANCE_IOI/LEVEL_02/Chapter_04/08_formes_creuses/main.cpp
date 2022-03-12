@@ -52,7 +52,7 @@ void drawTriangle(int nb_column, char sign)
     drawLine(nb_column, sign);
     return;
 }
-
+//=========================================================
 int main()
 {
     int x_lines = 0;

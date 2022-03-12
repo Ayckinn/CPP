@@ -1,11 +1,11 @@
 /* ==================== DESCRIPTION ==================== *
-    AUTHOR    : Ayckinn
-    COPYRIGHT : ©2022
-    LANGUAGE  : C++
-    LEVEL     : 02
-    CHAPTER   : 03
-    EXERCICE  : 09
-    TITLE     : ECRITURE EN MIROIR
+        AUTHOR | Ayckinn
+     COPYRIGHT | ©2022
+      LANGUAGE | C++
+         LEVEL | 02
+       CHAPTER | 03
+      EXERCICE | 09
+         TITLE | ECRITURE EN MIROIR
  * ===================================================== */
 #include <iostream>
 #include <string>

@@ -1,12 +1,12 @@
-/* =================== DESCRIPTION =================== *
-    AUTHOR    : Ayckinn
-    COPYRIGHT : ©2021
-    LANGUAGE  : C++
-    LEVEL     : 01
-    CHAPTER   : 04
-    EXERCICE  : 03
-    TITLE     : AGE DES PETITS-ENFANTS
- * =================================================== */
+/* ==================== DESCRIPTION ==================== *
+        AUTHOR | Ayckinn
+     COPYRIGHT | ©2021
+      LANGUAGE | C++
+         LEVEL | 01
+       CHAPTER | 04
+      EXERCICE | 03
+         TITLE | AGE DES PETITS-ENFANTS
+ * ===================================================== */
 #include <iostream>
 
 int main()

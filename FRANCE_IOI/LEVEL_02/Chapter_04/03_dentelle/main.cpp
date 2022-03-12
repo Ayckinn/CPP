@@ -1,11 +1,11 @@
 /* ==================== DESCRIPTION ==================== *
-    AUTHOR    : Ayckinn
-    COPYRIGHT : ©2022
-    LANGUAGE  : C++
-    LEVEL     : 02
-    CHAPTER   : 04
-    EXERCICE  : 03
-    TITLE     : DENTELLE
+        AUTHOR | Ayckinn
+     COPYRIGHT | ©2022
+      LANGUAGE | C++
+         LEVEL | 02
+       CHAPTER | 04
+      EXERCICE | 03
+         TITLE | DENTELLE
  * ===================================================== */
 #include <iostream>
 
@@ -17,7 +17,7 @@ void Dentelle(int nb_sign, char sign)
 
 	return;
 }
-
+//=========================================================
 int main()
 {
 	int len = 0;

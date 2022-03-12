@@ -1,12 +1,12 @@
-/* =================== DESCRIPTION =================== *
-    AUTHOR    : Ayckinn
-    COPYRIGHT : ©2021
-    LANGUAGE  : C++
-    LEVEL     : 02
-    CHAPTER   : 01
-    EXERCICE  : 08
-    TITLE     : AUGMENTATION DES TAXES
- * =================================================== */
+/* ==================== DESCRIPTION ==================== *
+        AUTHOR | Ayckinn
+     COPYRIGHT | ©2021
+      LANGUAGE | C++
+         LEVEL | 02
+       CHAPTER | 01
+      EXERCICE | 08
+         TITLE | AUGMENTATION DES TAXES
+ * ===================================================== */
 #include <iostream>
 #include <cmath>
 

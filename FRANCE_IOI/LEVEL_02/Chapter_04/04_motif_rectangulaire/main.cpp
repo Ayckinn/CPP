@@ -1,11 +1,11 @@
 /* ==================== DESCRIPTION ==================== *
-    AUTHOR    : Ayckinn
-    COPYRIGHT : ©2022
-    LANGUAGE  : C++
-    LEVEL     : 02
-    CHAPTER   : 04
-    EXERCICE  : 04
-    TITLE     : MOTIF RECTANGULAIRE
+        AUTHOR | Ayckinn
+     COPYRIGHT | ©2022
+      LANGUAGE | C++
+         LEVEL | 02
+       CHAPTER | 04
+      EXERCICE | 04
+         TITLE | MOTIF RECTANGULAIRE
  * ===================================================== */
 #include <iostream>
 
@@ -20,7 +20,7 @@ void Display(int nb_line, int nb_sign, char sign)
 	}
 	return;
 }
-
+//=========================================================
 int main()
 {
 	int nbline = 0;

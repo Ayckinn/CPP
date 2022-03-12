@@ -1,12 +1,12 @@
-/* =================== DESCRIPTION =================== *
-    AUTHOR    : Ayckinn
-    COPYRIGHT : ©2022
-    LANGUAGE  : C++
-    LEVEL     : 02
-    CHAPTER   : 03
-    EXERCICE  : 01
-    TITLE     : PETITES FICHES ET GROS TRAVAIL
- * =================================================== */
+/* ==================== DESCRIPTION ==================== *
+        AUTHOR | Ayckinn
+     COPYRIGHT | ©2022
+      LANGUAGE | C++
+         LEVEL | 02
+       CHAPTER | 03
+      EXERCICE | 01
+         TITLE | PETITES FICHES ET GROS TRAVAIL
+ * ===================================================== */
 #include <iostream>
 #include <string>
 

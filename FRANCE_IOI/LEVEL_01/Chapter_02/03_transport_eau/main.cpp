@@ -1,12 +1,12 @@
-/* =================== DESCRIPTION =================== *
-    AUTHOR    : Ayckinn
-    COPYRIGHT : ©2021
-    LANGUAGE  : C++
-    LEVEL     : 01
-    CHAPTER   : 02
-    EXERCICE  : 03
-    TITLE     : TRANSPORT D'EAU
- * =================================================== */
+/* ==================== DESCRIPTION ==================== *
+        AUTHOR | Ayckinn
+     COPYRIGHT | ©2021
+      LANGUAGE | C++
+         LEVEL | 01
+       CHAPTER | 02
+      EXERCICE | 03
+         TITLE | TRANSPORT D'EAU
+ * ===================================================== */
 #include <iostream>
 #include "robot.h"
 

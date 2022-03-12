@@ -1,12 +1,12 @@
-/* =================== DESCRIPTION =================== *
-    AUTHOR    : Ayckinn
-    COPYRIGHT : ©2021
-    LANGUAGE  : C++
-    LEVEL     : 01
-    CHAPTER   : 08
-    EXERCICE  : 02
-    TITLE     : ADMINISTRATION : COMPTES ANNUELS
- * =================================================== */
+/* ==================== DESCRIPTION ==================== *
+        AUTHOR | Ayckinn
+     COPYRIGHT | ©2021
+      LANGUAGE | C++
+         LEVEL | 01
+       CHAPTER | 08
+      EXERCICE | 02
+         TITLE | ADMINISTRATION : COMPTES ANNUELS
+ * ===================================================== */
 #include <iostream>
 
 int main()

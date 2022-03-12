@@ -1,12 +1,12 @@
-/* =================== DESCRIPTION =================== *
-    AUTHOR    : Ayckinn
-    COPYRIGHT : ©2021
-    LANGUAGE  : C++
-    LEVEL     : 01
-    CHAPTER   : 05
-    EXERCICE  : 03
-    TITLE     : TARIFS DEGRESSIFS
- * =================================================== */
+/* ==================== DESCRIPTION ==================== *
+        AUTHOR | Ayckinn
+     COPYRIGHT | ©2021
+      LANGUAGE | C++
+         LEVEL | 01
+       CHAPTER | 05
+      EXERCICE | 03
+         TITLE | TARIFS DEGRESSIFS
+ * ===================================================== */
 #include <iostream>
 
 int main()

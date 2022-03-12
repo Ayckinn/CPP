@@ -1,12 +1,12 @@
-/* =================== DESCRIPTION =================== *
-    AUTHOR    : Ayckinn
-    COPYRIGHT : ©2021
-    LANGUAGE  : C++
-    LEVEL     : 01
-    CHAPTER   : 05
-    EXERCICE  : 02
-    TITLE     : BORNES KILOMETRIQUES
- * =================================================== */
+/* ==================== DESCRIPTION ==================== *
+        AUTHOR | Ayckinn
+     COPYRIGHT | ©2021
+      LANGUAGE | C++
+         LEVEL | 01
+       CHAPTER | 05
+      EXERCICE | 02
+         TITLE | BORNES KILOMETRIQUES
+ * ===================================================== */
 #include <iostream>
 
 int main()

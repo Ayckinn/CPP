@@ -1,11 +1,11 @@
 /* ==================== DESCRIPTION ==================== *
-    AUTHOR    : Ayckinn
-    COPYRIGHT : ©2022
-    LANGUAGE  : C++
-    LEVEL     : 02
-    CHAPTER   : 03
-    EXERCICE  : 03
-    TITLE     : UNE LIGNE SUR DEUX
+        AUTHOR | Ayckinn
+     COPYRIGHT | ©2022
+      LANGUAGE | C++
+         LEVEL | 02
+       CHAPTER | 03
+      EXERCICE | 03
+         TITLE | UNE LIGNE SUR DEUX
  * ===================================================== */
 #include <iostream>
 #include <string>

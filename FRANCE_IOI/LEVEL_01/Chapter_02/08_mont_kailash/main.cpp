@@ -1,12 +1,12 @@
-/* =================== DESCRIPTION =================== *
-    AUTHOR    : Ayckinn
-    COPYRIGHT : ©2021
-    LANGUAGE  : C++
-    LEVEL     : 01
-    CHAPTER   : 02
-    EXERCICE  : 08
-    TITLE     : MONT KAILASH
- * =================================================== */
+/* ==================== DESCRIPTION ==================== *
+        AUTHOR | Ayckinn
+     COPYRIGHT | ©2021
+      LANGUAGE | C++
+         LEVEL | 01
+       CHAPTER | 02
+      EXERCICE | 08
+         TITLE | MONT KAILASH
+ * ===================================================== */
 #include <iostream>
 #include "robot.h"
 

@@ -1,12 +1,12 @@
-/* =================== DESCRIPTION =================== *
-    AUTHOR    : Ayckinn
-    COPYRIGHT : ©2021
-    LANGUAGE  : C++
-    LEVEL     : 01
-    CHAPTER   : 03
-    EXERCICE  : 05
-    TITLE     : COUR DE RECREATION
- * =================================================== */
+/* ==================== DESCRIPTION ==================== *
+        AUTHOR | Ayckinn
+     COPYRIGHT | ©2021
+      LANGUAGE | C++
+         LEVEL | 01
+       CHAPTER | 03
+      EXERCICE | 05
+         TITLE | COUR DE RECREATION
+ * ===================================================== */
 #include <iostream>
 
 int main()

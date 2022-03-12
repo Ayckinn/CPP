@@ -1,12 +1,12 @@
-/* =================== DESCRIPTION =================== *
-    AUTHOR    : Ayckinn
-    COPYRIGHT : ©2021
-    LANGUAGE  : C++
-    LEVEL     : 01
-    CHAPTER   : 08
-    EXERCICE  : 01
-    TITLE     : DEPARTEMENT DE MEDECINE : CONTROLE D'UNE EPIDEMIE
- * =================================================== */
+/* ==================== DESCRIPTION ==================== *
+        AUTHOR | Ayckinn
+     COPYRIGHT | ©2021
+      LANGUAGE | C++
+         LEVEL | 01
+       CHAPTER | 08
+      EXERCICE | 01
+         TITLE | DEPARTEMENT DE MEDECINE : CONTROLE D'UNE EPIDEMIE
+ * ===================================================== */
 #include <iostream>
 
 int main()

@@ -1,12 +1,12 @@
-/* =================== DESCRIPTION =================== *
-    AUTHOR    : Ayckinn
-    COPYRIGHT : ©2021
-    LANGUAGE  : C++
-    LEVEL     : 01
-    CHAPTER   : 06
-    EXERCICE  : 05
-    TITLE     : TYPE D'ARBRES
- * =================================================== */
+/* ==================== DESCRIPTION ==================== *
+        AUTHOR | Ayckinn
+     COPYRIGHT | ©2021
+      LANGUAGE | C++
+         LEVEL | 01
+       CHAPTER | 06
+      EXERCICE | 05
+         TITLE | TYPE D'ARBRE
+ * ===================================================== */
 #include <iostream>
 
 int main()

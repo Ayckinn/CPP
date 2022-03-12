@@ -1,12 +1,12 @@
-/* =================== DESCRIPTION =================== *
-    AUTHOR    : Ayckinn
-    COPYRIGHT : ©2021
-    LANGUAGE  : C++
-    LEVEL     : 01
-    CHAPTER   : 02
-    EXERCICE  : 05
-    TITLE     : SISYPHE
- * =================================================== */
+/* ==================== DESCRIPTION ==================== *
+        AUTHOR | Ayckinn
+     COPYRIGHT | ©2021
+      LANGUAGE | C++
+         LEVEL | 01
+       CHAPTER | 02
+      EXERCICE | 05
+         TITLE | SISYPHE
+ * ===================================================== */
 #include <iostream>
 #include "robot.h"
 

@@ -1,12 +1,12 @@
-/* =================== DESCRIPTION =================== *
-    AUTHOR    : Ayckinn
-    COPYRIGHT : ©2022
-    LANGUAGE  : C++
-    LEVEL     : 02
-    CHAPTER   : 02
-    EXERCICE  : 04
-    TITLE     : ETUDE DE MARCHE
- * =================================================== */
+/* ==================== DESCRIPTION ==================== *
+        AUTHOR | Ayckinn
+     COPYRIGHT | ©2022
+      LANGUAGE | C++
+         LEVEL | 02
+       CHAPTER | 02
+      EXERCICE | 04
+         TITLE | ETUDE DE MARCHE
+ * ===================================================== */
 #include <iostream>
 
 int main()

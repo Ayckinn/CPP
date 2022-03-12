@@ -1,11 +1,11 @@
 /* ==================== DESCRIPTION ==================== *
-    AUTHOR    : Ayckinn
-    COPYRIGHT : ©2022
-    LANGUAGE  : C++
-    LEVEL     : 02
-    CHAPTER   : 03
-    EXERCICE  : 05
-    TITLE     : LIRE OU NE PAS LIRE, TELLE EST LA QUESTION
+        AUTHOR | Ayckinn
+     COPYRIGHT | ©2022
+      LANGUAGE | C++
+         LEVEL | 02
+       CHAPTER | 03
+      EXERCICE | 05
+         TITLE | LIRE OU NE PAS LIRE, TELLE EST LA QUESTION
  * ===================================================== */
 #include <iostream>
 #include <string>

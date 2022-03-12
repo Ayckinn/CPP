@@ -1,12 +1,12 @@
-/* =================== DESCRIPTION =================== *
-    AUTHOR    : Ayckinn
-    COPYRIGHT : ©2021
-    LANGUAGE  : C++
-    LEVEL     : 01
-    CHAPTER   : 05
-    EXERCICE  : 06
-    TITLE     : TRAVERSEE DU PONT
- * =================================================== */
+/* ==================== DESCRIPTION ==================== *
+        AUTHOR | Ayckinn
+     COPYRIGHT | ©2021
+      LANGUAGE | C++
+         LEVEL | 01
+       CHAPTER | 05
+      EXERCICE | 06
+         TITLE | TRAVERSEE DU PONT
+ * ===================================================== */
 #include <iostream>
 
 int main()

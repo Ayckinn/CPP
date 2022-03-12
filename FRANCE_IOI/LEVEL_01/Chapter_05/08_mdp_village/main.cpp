@@ -1,12 +1,12 @@
-/* =================== DESCRIPTION =================== *
-    AUTHOR    : Ayckinn
-    COPYRIGHT : ©2021
-    LANGUAGE  : C++
-    LEVEL     : 01
-    CHAPTER   : 05
-    EXERCICE  : 08
-    TITLE     : MOT DE PASSE DU VILLAGE
- * =================================================== */
+/* ==================== DESCRIPTION ==================== *
+        AUTHOR | Ayckinn
+     COPYRIGHT | ©2021
+      LANGUAGE | C++
+         LEVEL | 01
+       CHAPTER | 05
+      EXERCICE | 08
+         TITLE | MOT DE PASSE DU VILLAGE
+ * ===================================================== */
 #include <iostream>
 
 int main()

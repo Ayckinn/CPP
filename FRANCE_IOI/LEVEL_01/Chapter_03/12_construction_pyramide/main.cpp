@@ -1,12 +1,12 @@
-/* =================== DESCRIPTION =================== *
-    AUTHOR    : Ayckinn
-    COPYRIGHT : ©2021
-    LANGUAGE  : C++
-    LEVEL     : 01
-    CHAPTER   : 03
-    EXERCICE  : 12
-    TITLE     : CONSTRUCTION D'UNE PYRAMIDE
- * =================================================== */
+/* ==================== DESCRIPTION ==================== *
+        AUTHOR | Ayckinn
+     COPYRIGHT | ©2021
+      LANGUAGE | C++
+         LEVEL | 01
+       CHAPTER | 03
+      EXERCICE | 12
+         TITLE | CONSTRUCTION D'UNE PYRAMIDE
+ * ===================================================== */
 #include <iostream>
 #include <cmath>
 

@@ -1,12 +1,12 @@
-/* =================== DESCRIPTION =================== *
-    AUTHOR    : Ayckinn
-    COPYRIGHT : ©2021
-    LANGUAGE  : C++
-    LEVEL     : 01
-    CHAPTER   : 08
-    EXERCICE  : 05
-    TITLE     : DEPARTEMENT DE CHIMIE : MELANGE EXPLOSIF
- * =================================================== */
+/* ==================== DESCRIPTION ==================== *
+        AUTHOR | Ayckinn
+     COPYRIGHT | ©2021
+      LANGUAGE | C++
+         LEVEL | 01
+       CHAPTER | 08
+      EXERCICE | 05
+         TITLE | DEPARTEMENT DE CHIMIE : MELANGE EXPLOSIF
+ * ===================================================== */
 #include <iostream>
 
 int main()

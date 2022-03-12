@@ -1,12 +1,12 @@
-/* =================== DESCRIPTION =================== *
-    AUTHOR    : Ayckinn
-    COPYRIGHT : ©2021
-    LANGUAGE  : C++
-    LEVEL     : 01
-    CHAPTER   : 06
-    EXERCICE  : 06
-    TITLE     : TARIFS DE L'AUBERGE
- * =================================================== */
+/* ==================== DESCRIPTION ==================== *
+        AUTHOR | Ayckinn
+     COPYRIGHT | ©2021
+      LANGUAGE | C++
+         LEVEL | 01
+       CHAPTER | 06
+      EXERCICE | 06
+         TITLE | TARIFS DE L'AUBERGE
+ * ===================================================== */
 #include <iostream>
 
 int main()

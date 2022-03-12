@@ -1,12 +1,12 @@
-/* =================== DESCRIPTION =================== *
-    AUTHOR    : Ayckinn
-    COPYRIGHT : ©2021
-    LANGUAGE  : C++
-    LEVEL     : 01
-    CHAPTER   : 01
-    EXERCICE  : 06
-    TITLE     : RECETTE SECRETE
- * =================================================== */
+/* ==================== DESCRIPTION ==================== *
+        AUTHOR | Ayckinn
+     COPYRIGHT | ©2021
+      LANGUAGE | C++
+         LEVEL | 01
+       CHAPTER | 01
+      EXERCICE | 06
+         TITLE | RECETTE SECRETE
+ * ===================================================== */
 #include <iostream>
 #include "robot.h"
 
