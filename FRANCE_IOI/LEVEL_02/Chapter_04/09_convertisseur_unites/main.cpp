@@ -12,7 +12,6 @@
 const double FEET_TO_M = 0.3048;
 const double GR_TO_LBS = 0.002205;
 
-//---------------------------------------------------------
 double mToFeet(double value)
 {
    return (value / FEET_TO_M);
