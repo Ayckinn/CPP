@@ -17,7 +17,7 @@
     <img
         src="https://github.com/Ayckinn/CPP/blob/main/FRANCE_IOI/LEVEL_03/0_Prelude/2_flechettes/result.png"
         alt="DEMO"
-        style="width:40%">
+        style="width:45%">
 </div>
 
 ---
