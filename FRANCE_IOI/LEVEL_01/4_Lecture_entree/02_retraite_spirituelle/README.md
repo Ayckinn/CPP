@@ -1,5 +1,5 @@
 # RETRAITE SPIRITUELLE - C++ Version
-LEVEL 01 --> CHAPTER 04 --> EXERCICE 02
+### LVL 1 - LECTURE DE L'ENTREE
 
 ---
 ### **SCREENSHOT**
@@ -7,7 +7,7 @@ LEVEL 01 --> CHAPTER 04 --> EXERCICE 02
 #### To Do
 <div align="center">
     <img
-        src="https://github.com/Ayckinn/CPP/blob/main/FRANCE_IOI/LEVEL_01/Chapter_04/02_retraite_spirituelle/todo.png"
+        src="https://github.com/Ayckinn/CPP/blob/main/FRANCE_IOI/LEVEL_01/4_Lecture_entree/02_retraite_spirituelle/todo.png"
         alt="DEMO"
         style="width:50%">
 </div>
@@ -15,7 +15,7 @@ LEVEL 01 --> CHAPTER 04 --> EXERCICE 02
 #### Result
 <div align="center">
     <img
-        src="https://github.com/Ayckinn/CPP/blob/main/FRANCE_IOI/LEVEL_01/Chapter_04/02_retraite_spirituelle/result.png"
+        src="https://github.com/Ayckinn/CPP/blob/main/FRANCE_IOI/LEVEL_01/4_Lecture_entree/02_retraite_spirituelle/result.png"
         alt="DEMO"
         style="width:50%">
 </div>

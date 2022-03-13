@@ -1,12 +1,12 @@
 # BETAIL - C++ Version
-LEVEL 01 --> CHAPTER 04 --> EXERCICE 08
+### LVL 1 - LECTURE DE L'ENTREE
 
 ---
 ### **SCREENSHOT**
 
 <div align="center">
     <img
-        src="https://github.com/Ayckinn/CPP/blob/main/FRANCE_IOI/LEVEL_01/Chapter_04/08_betail/todo.png"
+        src="https://github.com/Ayckinn/CPP/blob/main/FRANCE_IOI/LEVEL_01/4_Lecture_entree/08_betail/todo.png"
         alt="DEMO"
         style="width:50%">
 </div>

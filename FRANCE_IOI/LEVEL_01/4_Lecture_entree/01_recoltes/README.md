@@ -1,5 +1,5 @@
 # RECOLTES - C++ Version
-LEVEL 01 --> CHAPTER 04 --> EXERCICE 01
+### LVL 1 - LECTURE DE L'ENTREE
 
 ---
 ### **SCREENSHOT**
@@ -7,7 +7,7 @@ LEVEL 01 --> CHAPTER 04 --> EXERCICE 01
 #### To Do
 <div align="center">
     <img
-        src="https://github.com/Ayckinn/CPP/blob/main/FRANCE_IOI/LEVEL_01/Chapter_04/01_recoltes/todo.png"
+        src="https://github.com/Ayckinn/CPP/blob/main/FRANCE_IOI/LEVEL_01/4_Lecture_entree/01_recoltes/todo.png"
         alt="DEMO"
         style="width:50%">
 </div>
@@ -15,7 +15,7 @@ LEVEL 01 --> CHAPTER 04 --> EXERCICE 01
 #### Result
 <div align="center">
     <img
-        src="https://github.com/Ayckinn/CPP/blob/main/FRANCE_IOI/LEVEL_01/Chapter_04/01_recoltes/result.png"
+        src="https://github.com/Ayckinn/CPP/blob/main/FRANCE_IOI/LEVEL_01/4_Lecture_entree/01_recoltes/result.png"
         alt="DEMO"
         style="width:50%">
 </div>
