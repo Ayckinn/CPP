@@ -1,12 +1,12 @@
 # CALCUL DES DENIVELEES - C++ Version
-LEVEL 01 --> CHAPTER 06 --> EXERCICE 04
+### LVL 1 - STRUCTURES AVANCEES
 
 ---
 ### **SCREENSHOT**
 
 <div align="center">
     <img
-        src="https://github.com/Ayckinn/CPP/blob/main/FRANCE_IOI/LEVEL_01/Chapter_06/04_calcul_denivelees/todo.png"
+        src="https://github.com/Ayckinn/CPP/blob/main/FRANCE_IOI/LEVEL_01/6_Structures_avancees/4_calcul_denivelees/todo.png"
         alt="DEMO"
         style="width:50%">
 </div>
