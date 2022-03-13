@@ -147,6 +147,10 @@ int main()
 		"echo \"\t  \033[1;32m✓             \033[1;35muptime \033[1;37m|\033[1;33m\" $(uptime --version | head -n1 | cut -d \" \" -f4)", \
 		"\t  \033[1;31m✗             uptime \033[1;37m| \033[1;31mNot installed - $> sudo apt install uptime\n");
 
+	checkPath("valgrind", \
+		"echo \"\t  \033[1;32m✓           \033[1;35mvalgrind \033[1;37m|\033[1;33m\" $(valgrind --version | cut -c 10-15)", \
+		"\t  \033[1;31m✗           valgrind \033[1;37m| \033[1;31mNot installed - $> sudo apt install valgrind\n");
+
 	checkPath("wget", \
 		"echo \"\t  \033[1;32m✓               \033[1;35mwget \033[1;37m|\033[1;33m\" $(wget --version | head -n1 | cut -c 11-14)", \
 		"\t  \033[1;31m✗               wget \033[1;37m| \033[1;31mNot installed - $> sudo apt install wget\n");
@@ -246,6 +250,10 @@ int main()
 		"echo \"\t  \033[1;32m✓              \033[1;35mbrave \033[1;37m|\033[1;33m\" $(brave-browser --version | cut -d \" \" -f3)", \
 		"\t  \033[1;31m✗              brave \033[1;37m| \033[1;31mNot installed - See : https://brave.com/linux/#linux\n");
 
+	checkPath("ddd", \
+		"echo \"\t  \033[1;32m✓                \033[1;35mddd \033[1;37m|\033[1;33m\" $(ddd --version | head -n1 | cut -d \" \" -f3)", \
+		"\t  \033[1;31m✗                ddd \033[1;37m| \033[1;31mNot installed - $> sudo apt install ddd\n");
+
 	checkPath("easytag", \
 		"echo \"\t  \033[1;32m✓            \033[1;35measytag \033[1;37m|\033[1;33m\" $(easytag --version | head -n1 | cut -d \" \" -f2)", \
 		"\t  \033[1;31m✗            easytag \033[1;37m| \033[1;31mNot installed - $> sudo apt install easytag\n");
@@ -312,18 +320,6 @@ int main()
     std::remove("testcomp");
     std::remove("testcomp.c");
     std::cout << std::endl;
-
-    std::cout << "     \033[1;34m+-------------------------------------------------+" << std::endl;
-    std::cout << "     |                </LIBRARIES TOOLS>               |" << std::endl;
-    std::cout << "     +-------------------------------------------------+" << std::endl;
-    std::cout << "        \033[1;32mBINUTILS \033[1;37m| \033[0;37mhttp://fr.linuxfromscratch.org/view/lfs-systemd-stable/chapter08/binutils.html#contents-binutils"   << std::endl;
-    std::cout << "       \033[1;32mCOREUTILS \033[1;37m| \033[0;37mhttp://fr.linuxfromscratch.org/view/lfs-systemd-stable/chapter08/coreutils.html#contents-coreutils" << std::endl;
-    std::cout << "       \033[1;32mFINDUTILS \033[1;37m| \033[0;37mhttp://fr.linuxfromscratch.org/view/lfs-systemd-stable/chapter08/findutils.html#contents-findutils" << std::endl;
-    std::cout << "         \033[1;32mG++/GCC \033[1;37m| \033[0;37mhttp://fr.linuxfromscratch.org/view/lfs-systemd-stable/chapter08/gcc.html#contents-gcc"             << std::endl;
-    std::cout << "           \033[1;32mGLIBC \033[1;37m| \033[0;37mhttp://fr.linuxfromscratch.org/view/lfs-systemd-stable/chapter08/glibc.html#contents-glibc"         << std::endl;
-    std::cout << "            \033[1;32mGZIP \033[1;37m| \033[0;37mhttp://fr.linuxfromscratch.org/view/lfs-systemd-stable/chapter08/gzip.html#contents-gzip"           << std::endl;
-    std::cout << "         \033[1;32mNCURSES \033[1;37m| \033[0;37mhttp://fr.linuxfromscratch.org/view/lfs-systemd-stable/chapter08/ncurses.html#contents-ncurses"     << std::endl;
-    std::cout << "\033[1;m" << std::endl;
 
 	return 0;
 }
