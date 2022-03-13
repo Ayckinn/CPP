@@ -1,12 +1,12 @@
 # ACHAT DE LIVRES - C++ Version
-LEVEL 02 --> CHAPTER 01 --> EXERCICE 09
+### LVL 2 - NOMBRES A VIRGULES ET AUTRES OUTILS
 
 ---
 ### **SCREENSHOT**
 
 <div align="center">
     <img
-        src="https://github.com/Ayckinn/CPP/blob/main/FRANCE_IOI/LEVEL_02/Chapter_01/09_achat_livres/todo.png"
+        src="https://github.com/Ayckinn/CPP/blob/main/FRANCE_IOI/LEVEL_02/1_Nombres_a_virgules/09_achat_livres/todo.png"
         alt="DEMO"
         style="width:50%">
 </div>

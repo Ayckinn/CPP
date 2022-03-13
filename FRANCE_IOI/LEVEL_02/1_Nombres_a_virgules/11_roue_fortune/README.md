@@ -1,12 +1,12 @@
 # LA ROUE DE LA FORTUNE - C++ Version
-LEVEL 02 --> CHAPTER 01 --> EXERCICE 11
+### LVL 2 - NOMBRES A VIRGULES ET AUTRES OUTILS
 
 ---
 ### **SCREENSHOT**
 
 <div align="center">
     <img
-        src="https://github.com/Ayckinn/CPP/blob/main/FRANCE_IOI/LEVEL_02/Chapter_01/11_roue_fortune/todo.png"
+        src="https://github.com/Ayckinn/CPP/blob/main/FRANCE_IOI/LEVEL_02/1_Nombres_a_virgules/11_roue_fortune/todo.png"
         alt="DEMO"
         style="width:50%">
 </div>
