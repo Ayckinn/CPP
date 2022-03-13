@@ -1,5 +1,5 @@
 # TABLE DE MULTIPLICATION - C++ Version
-LEVEL 01 --> CHAPTER 03 --> EXERCICE 13
+### LVL 1 - CALCULS ET DECOUVERTES DES VARIABLES
 
 ---
 ### **SCREENSHOT**
@@ -7,7 +7,7 @@ LEVEL 01 --> CHAPTER 03 --> EXERCICE 13
 #### To Do
 <div align="center">
     <img
-        src="https://github.com/Ayckinn/CPP/blob/main/FRANCE_IOI/LEVEL_01/Chapter_03/13_table_multiplication/todo.png"
+        src="https://github.com/Ayckinn/CPP/blob/main/FRANCE_IOI/LEVEL_01/3_Calculs_et_variables/13_table_multiplication/todo.png"
         alt="DEMO"
         style="width:50%">
 </div>
@@ -15,7 +15,7 @@ LEVEL 01 --> CHAPTER 03 --> EXERCICE 13
 #### Result
 <div align="center">
     <img
-        src="https://github.com/Ayckinn/CPP/blob/main/FRANCE_IOI/LEVEL_01/Chapter_03/13_table_multiplication/result.png"
+        src="https://github.com/Ayckinn/CPP/blob/main/FRANCE_IOI/LEVEL_01/3_Calculs_et_variables/13_table_multiplication/result.png"
         alt="DEMO"
         style="width:50%">
 </div>

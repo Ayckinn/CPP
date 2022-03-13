@@ -1,12 +1,12 @@
 # MONT KAILASH - C++ Version
-LEVEL 01 --> CHAPTER 02 --> EXERCICE 08
+### LVL 1 - REPETITIONS D'INSTRUCTIONS
 
 ---
 ### **SCREENSHOT**
 
 <div align="center">
     <img
-        src="https://github.com/Ayckinn/CPP/blob/main/FRANCE_IOI/LEVEL_01/Chapter_02/08_mont_kailash/todo.png"
+        src="https://github.com/Ayckinn/CPP/blob/main/FRANCE_IOI/LEVEL_01/2_Repetition_instructions/08_mont_kailash/todo.png"
         alt="DEMO"
         style="width:50%">
 </div>

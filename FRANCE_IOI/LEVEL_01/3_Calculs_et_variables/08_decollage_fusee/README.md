@@ -1,5 +1,5 @@
 # DECOLLAGE DE FUSEE - C++ Version
-LEVEL 01 --> CHAPTER 03 --> EXERCICE 08
+### LVL 1 - CALCULS ET DECOUVERTES DES VARIABLES
 
 ---
 ### **SCREENSHOT**
@@ -7,7 +7,7 @@ LEVEL 01 --> CHAPTER 03 --> EXERCICE 08
 #### To Do
 <div align="center">
     <img
-        src="https://github.com/Ayckinn/CPP/blob/main/FRANCE_IOI/LEVEL_01/Chapter_03/08_decollage_fusee/todo.png"
+        src="https://github.com/Ayckinn/CPP/blob/main/FRANCE_IOI/LEVEL_01/3_Calculs_et_variables/08_decollage_fusee/todo.png"
         alt="DEMO"
         style="width:50%">
 </div>
@@ -15,7 +15,7 @@ LEVEL 01 --> CHAPTER 03 --> EXERCICE 08
 #### Result
 <div align="center">
     <img
-        src="https://github.com/Ayckinn/CPP/blob/main/FRANCE_IOI/LEVEL_01/Chapter_03/08_decollage_fusee/result.png"
+        src="https://github.com/Ayckinn/CPP/blob/main/FRANCE_IOI/LEVEL_01/3_Calculs_et_variables/08_decollage_fusee/result.png"
         alt="DEMO"
         style="width:50%">
 </div>

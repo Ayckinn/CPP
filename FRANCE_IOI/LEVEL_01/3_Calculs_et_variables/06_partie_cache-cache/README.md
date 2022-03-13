@@ -1,5 +1,5 @@
 # UNE PARTIE DE CACHE-CACHE - C++ Version
-LEVEL 01 --> CHAPTER 03 --> EXERCICE 06
+### LVL 1 - CALCULS ET DECOUVERTES DES VARIABLES
 
 ---
 ### **SCREENSHOT**
@@ -7,7 +7,7 @@ LEVEL 01 --> CHAPTER 03 --> EXERCICE 06
 #### To Do
 <div align="center">
     <img
-        src="https://github.com/Ayckinn/CPP/blob/main/FRANCE_IOI/LEVEL_01/Chapter_03/06_partie_cache-cache/todo.png"
+        src="https://github.com/Ayckinn/CPP/blob/main/FRANCE_IOI/LEVEL_01/3_Calculs_et_variables/06_partie_cache-cache/todo.png"
         alt="DEMO"
         style="width:50%">
 </div>
@@ -15,7 +15,7 @@ LEVEL 01 --> CHAPTER 03 --> EXERCICE 06
 #### Result
 <div align="center">
     <img
-        src="https://github.com/Ayckinn/CPP/blob/main/FRANCE_IOI/LEVEL_01/Chapter_03/06_partie_cache-cache/result.png"
+        src="https://github.com/Ayckinn/CPP/blob/main/FRANCE_IOI/LEVEL_01/3_Calculs_et_variables/06_partie_cache-cache/result.png"
         alt="DEMO"
         style="width:50%">
 </div>

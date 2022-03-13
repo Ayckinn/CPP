@@ -1,12 +1,12 @@
 # PRESENTATION - C++ Version
-LEVEL 01 --> CHAPTER 01 --> EXERCICE 02
+### LVL 1 - AFFICHAGE ET TEXTE
 
 ---
 ### **SCREENSHOT**
 
 <div align="center">
     <img
-        src="https://github.com/Ayckinn/CPP/blob/main/FRANCE_IOI/LEVEL_01/Chapter_01/02_presentation/todo.png"
+        src="https://github.com/Ayckinn/CPP/blob/main/FRANCE_IOI/LEVEL_01/1_Affichage_et_texte/2_presentation/todo.png"
         alt="DEMO"
         style="width:50%">
 </div>

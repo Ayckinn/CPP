@@ -1,5 +1,5 @@
 # L'ALGOREATHLON - C++ Version
-LEVEL 01 --> CHAPTER 03 --> EXERCICE 04
+### LVL 1 - CALCULS ET DECOUVERTES DES VARIABLES
 
 ---
 ### **SCREENSHOT**
@@ -7,7 +7,7 @@ LEVEL 01 --> CHAPTER 03 --> EXERCICE 04
 #### To Do
 <div align="center">
     <img
-        src="https://github.com/Ayckinn/CPP/blob/main/FRANCE_IOI/LEVEL_01/Chapter_03/04_algoreathlon/todo.png"
+        src="https://github.com/Ayckinn/CPP/blob/main/FRANCE_IOI/LEVEL_01/3_Calculs_et_variables/04_algoreathlon/todo.png"
         alt="DEMO"
         style="width:50%">
 </div>
@@ -15,7 +15,7 @@ LEVEL 01 --> CHAPTER 03 --> EXERCICE 04
 #### Result
 <div align="center">
     <img
-        src="https://github.com/Ayckinn/CPP/blob/main/FRANCE_IOI/LEVEL_01/Chapter_03/04_algoreathlon/result.png"
+        src="https://github.com/Ayckinn/CPP/blob/main/FRANCE_IOI/LEVEL_01/3_Calculs_et_variables/04_algoreathlon/result.png"
         alt="DEMO"
         style="width:50%">
 </div>

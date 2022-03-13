@@ -1,5 +1,5 @@
 # KERMESSE - C++ Version
-LEVEL 01 --> CHAPTER 03 --> EXERCICE 10
+### LVL 1 - CALCULS ET DECOUVERTES DES VARIABLES
 
 ---
 ### **SCREENSHOT**
@@ -7,7 +7,7 @@ LEVEL 01 --> CHAPTER 03 --> EXERCICE 10
 #### To Do
 <div align="center">
     <img
-        src="https://github.com/Ayckinn/CPP/blob/main/FRANCE_IOI/LEVEL_01/Chapter_03/10_kermesse/todo.png"
+        src="https://github.com/Ayckinn/CPP/blob/main/FRANCE_IOI/LEVEL_01/3_Calculs_et_variables/10_kermesse/todo.png"
         alt="DEMO"
         style="width:50%">
 </div>
@@ -15,7 +15,7 @@ LEVEL 01 --> CHAPTER 03 --> EXERCICE 10
 #### Result
 <div align="center">
     <img
-        src="https://github.com/Ayckinn/CPP/blob/main/FRANCE_IOI/LEVEL_01/Chapter_03/10_kermesse/result.png"
+        src="https://github.com/Ayckinn/CPP/blob/main/FRANCE_IOI/LEVEL_01/3_Calculs_et_variables/10_kermesse/result.png"
         alt="DEMO"
         style="width:50%">
 </div>

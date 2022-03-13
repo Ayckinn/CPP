@@ -1,12 +1,12 @@
 # DANS LE FOURRE - C++ Version
-LEVEL 01 --> CHAPTER 01 --> EXERCICE 04
+### LVL 1 - AFFICHAGE ET TEXTE
 
 ---
 ### **SCREENSHOT**
 
 <div align="center">
     <img
-        src="https://github.com/Ayckinn/CPP/blob/main/FRANCE_IOI/LEVEL_01/Chapter_01/04_dans_le_fourre/todo.png"
+        src="https://github.com/Ayckinn/CPP/blob/main/FRANCE_IOI/LEVEL_01/1_Affichage_et_texte/4_dans_le_fourre/todo.png"
         alt="DEMO"
         style="width:50%">
 </div>

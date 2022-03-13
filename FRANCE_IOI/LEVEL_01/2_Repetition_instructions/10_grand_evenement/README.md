@@ -1,5 +1,5 @@
 # LE GRAND EVENEMENT - C++ Version
-LEVEL 01 --> CHAPTER 02 --> EXERCICE 10
+### LVL 1 - REPETITIONS D'INSTRUCTIONS
 
 ---
 ### **SCREENSHOT**
@@ -7,7 +7,7 @@ LEVEL 01 --> CHAPTER 02 --> EXERCICE 10
 #### To do
 <div align="center">
     <img
-        src="https://github.com/Ayckinn/CPP/blob/main/FRANCE_IOI/LEVEL_01/Chapter_02/10_grand_evenement/todo.png"
+        src="https://github.com/Ayckinn/CPP/blob/main/FRANCE_IOI/LEVEL_01/2_Repetition_instructions/10_grand_evenement/todo.png"
         alt="DEMO"
         style="width:50%">
 </div>
@@ -15,7 +15,7 @@ LEVEL 01 --> CHAPTER 02 --> EXERCICE 10
 #### Result
 <div align="center">
     <img
-        src="https://github.com/Ayckinn/CPP/blob/main/FRANCE_IOI/LEVEL_01/Chapter_02/10_grand_evenement/result.png"
+        src="https://github.com/Ayckinn/CPP/blob/main/FRANCE_IOI/LEVEL_01/2_Repetition_instructions/10_grand_evenement/result.png"
         alt="DEMO"
         style="width:50%">
 </div>
