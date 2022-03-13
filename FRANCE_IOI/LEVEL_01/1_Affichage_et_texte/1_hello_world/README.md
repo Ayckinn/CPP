@@ -1,5 +1,5 @@
 # HELLO WORLD - C++ Version
-## LVL1 - 1. AFFICHAGE ET TEXTE
+## LVL 1 - AFFICHAGE ET TEXTE
 ---
 ### **SCREENSHOT**
 
