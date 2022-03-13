@@ -1,4 +1,4 @@
-# SYSIPHE - C++ Version
+# SISYPHE - C++ Version
 ### LVL 1 - REPETITIONS D'INSTRUCTIONS
 
 ---

@@ -1,4 +1,4 @@
-# PLAN DELA MONTAGNE - C++ Version
+# PLAN DE LA MONTAGNE - C++ Version
 ### LVL 1 - AFFICHAGE ET TEXTE
 
 ---
