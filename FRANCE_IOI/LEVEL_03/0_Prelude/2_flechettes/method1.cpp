@@ -11,7 +11,7 @@
 #include <algorithm>
 
 
-char alphabet(int line, int column, char size)
+char drawTarget(int line, int column, char size)
 {
    line = std::min(line, (size - 1 - line));
    column = std::min(column, (size - 1 - column));
@@ -29,7 +29,7 @@ int main()
    for(int lin = 0; lin < size; lin++)
    {
       for(int col = 0; col < size; col++)
-         std::cout << alphabet(lin, col, size);
+         std::cout << drawTarget(lin, col, size);
 
       std::cout << std::endl;
    }
