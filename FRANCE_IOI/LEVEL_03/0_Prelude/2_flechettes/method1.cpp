@@ -5,7 +5,7 @@
          LEVEL | 03
        CHAPTER | PRELUDE
       EXERCICE | 02
-         TITLE | FLECHETTES
+         TITLE | FLECHETTES (Method 1)
  * ===================================================== */
 #include <iostream>
 #include <algorithm>
@@ -13,8 +13,8 @@
 
 char alphabet(int line, int column, char size)
 {
-   line = std::min(line, size - 1 - line);
-   column = std::min(column, size - 1 - column);
+   line = std::min(line, (size - 1 - line));
+   column = std::min(column, (size - 1 - column));
 
    return ('a' + std::min(line, column));
 }
@@ -35,3 +35,8 @@ int main()
    }
    return 0;
 }
+
+/*
+Avec cette methode, on utilise les fonctions (ou syntaxes) du langage qui permettent 
+de convertir à la volée un entier en un caractère, et vice-versa.
+*/
