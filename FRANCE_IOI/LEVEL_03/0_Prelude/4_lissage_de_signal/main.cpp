@@ -30,8 +30,6 @@ bool Smoothing()
 //---------------------------------------------------------
 int main()
 {
-   
-
    std::cin >> nb_values >> limit;
 
    for(int pos = 0; pos < nb_values; pos++)
