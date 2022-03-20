@@ -1,5 +1,5 @@
 # MINI ASCII TABLE
-Display a part of the ASCCI table in console
+Display a part of the ASCII table in console
 
 ---
 ### **RESULT**
