@@ -21,7 +21,6 @@ int main()
 
    return 0;
 }
-
 /**
  *    In ASCII table, the 'A' starts at code 65
  *    but we want the 'A' starts at 1
