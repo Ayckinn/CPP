@@ -19,10 +19,15 @@ To use ```spysia``` simple command,  you have to copy the file in the following 
 ---
 ### **CHANGELOG**
 
-Version 1.1 : March 13', 2022
+Version 2.0 : March 23' 2022
+    
+    - Add new logo
+    - Add [fliget] app : Create ASCII banner for the terminal
+
+Version 1.1 : March 13' 2022
 
     - Add [ddd] app      : Graphic Debugger
-    - Add [valgrind app] : CLI Debugger
+    - Add [valgrind] app : CLI Debugger
     - Remove Libraries links
     
 Version 1.0 : March 3rd, 2022
