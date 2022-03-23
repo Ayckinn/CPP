@@ -25,15 +25,18 @@ int main()
     std::system("clear");
     std::system("echo $(export LC_ALL=C)");
 
-    std::cout << "               +=============================+" << std::endl;
-    std::cout << "               |         \033[1;32mSPYSIA v1.0\033[1;m         |" << std::endl;
-    std::cout << "               +===+=====================+===+" << std::endl;
-    std::cout << "                   |  \033[1;35m(c)2022 - Ayckinn\033[1;m  |"     << std::endl;
-    std::cout << "                   +---------------------+"     << std::endl;
-    std::cout << std::endl;
-    std::cout << "     \033[1;34m+-------------------------------------------------+" << std::endl;
-    std::cout << "     |              </GENERAL INFORMATION>             |" << std::endl;
-    std::cout << "     +-------------------------------------------------+" << std::endl;
+    std::cout << "\033[1;32m \
+	          _____                  _           \n\
+	         / ___/____  __  _______(_)___ _     \n\
+	         \\__ \\/ __ \\/ / / / ___/ / __ `/  \n\
+	        ___/ / /_/ / /_/ (__  ) / /_/ /      \n\
+	       /____/ .___/\\__, /____/_/\\__,_/     \n\
+	           /_/    /____/  \033[1;34mv2.0     \n\
+	              \033[1;31m(c)2022 - Ayckinn    \033[1;m\n\n";
+
+    std::cout << "     \033[1;34m+-------------------------------------------------+\n";
+    std::cout << "     |              </GENERAL INFORMATION>             |\n";
+    std::cout << "     +-------------------------------------------------+\n";
     std::system("echo \"\t  \033[1;32m✓   \033[1;35mOperating System \033[1;37m|\033[1;33m\" $(hostnamectl | head -n6 | cut -d \" \" -f3-4 | tail -n +6)");
     std::system("echo \"\t  \033[1;32m✓     \033[1;35mKernel version \033[1;37m|\033[1;33m\" $(uname -r)");
     std::cout << std::endl;
@@ -47,8 +50,7 @@ int main()
 		"echo \"\t  \033[1;32m✓   \033[1;35mAvailable update \033[1;37m|\033[1;33m\" $(/usr/lib/update-notifier/apt-check --human-readable | head -n1 | cut -d \" \" -f1)", \
 		"\t  \033[1;31m\033[1;31m✗   Available update \033[1;37m| \033[1;31mUnknown - $> sudo apt install update-notifier\n");
     std::cout << "\n\t \033[0;37m >> To see the list of available updates :\n";
-    std::cout << "\t   $> /usr/lib/update-notifier/apt-check -p\n";
-    std::cout << std::endl;
+    std::cout << "\t   $> /usr/lib/update-notifier/apt-check -p\n\n";
 
     std::cout << "     \033[1;34m+-------------------------------------------------+" << std::endl;
     std::cout << "     |                </SYSTEM COMMANDS>               |" << std::endl;
@@ -192,6 +194,10 @@ int main()
 	checkPath("arp-scan", \
 		"echo \"\t  \033[1;32m✓           \033[1;35marp-scan \033[1;37m|\033[1;33m\" $(arp-scan -V | head -n1 | cut -d \" \" -f2)", \
 		"\t  \033[1;31m✗           arp-scan \033[1;37m| \033[1;31mNot installed - $> sudo apt install arp-scan\n");
+	
+	checkPath("figlet", \
+		"echo \"\t  \033[1;32m✓             \033[1;35mfiglet \033[1;37m|\033[1;33m\" $(figlet -v | head -n3 | cut -c 38-42 | tail -n +3)", \
+		"\t  \033[1;31m✗             figlet \033[1;37m| \033[1;31mNot installed - $> sudo apt install figlet\n");
 
 	checkPath("glances", \
 		"echo \"\t  \033[1;32m✓            \033[1;35mglances \033[1;37m|\033[1;33m\" $(glances --version | head -n1 | cut -c 29-33)", \
