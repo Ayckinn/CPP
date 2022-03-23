@@ -22,7 +22,7 @@ To use ```spysia``` simple command,  you have to copy the file in the following 
 Version 2.0 : March 23' 2022
     
     - Add new logo
-    - Add [fliget] app : Create ASCII banner for the terminal
+    - Add [figlet] app : Create ASCII banner for the terminal
 
 Version 1.1 : March 13' 2022
 
