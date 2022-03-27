@@ -1,7 +1,7 @@
 /* ==================== DESCRIPTION ==================== *
         AUTHOR | Ayckinn
      COPYRIGHT | ©2022
-          MAIL | ayckinn@pm.me
+          MAIL | marlene.soft@protonmail.com
       LANGUAGE | C++
        PROJECT | AM2 Calculator
        VERSION | 1.0
