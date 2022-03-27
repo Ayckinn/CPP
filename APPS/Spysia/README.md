@@ -19,6 +19,12 @@ To use ```spysia``` simple command,  you have to copy the file in the following 
 ---
 ### **CHANGELOG**
 
+Version 2.1 : March 27' 2022
+
+    - Add mail for contact
+    - Add [Opera] browser
+    - Update source code
+
 Version 2.0 : March 23' 2022
     
     - Add new logo
