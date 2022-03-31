@@ -1,4 +1,4 @@
-# **SPYCIA v2.2 - For Linux**
+# **SPYSIA v2.2 - For Linux**
 
 ### **HOW TO USE IT**
 ```./spysia``` or ```spysia```
