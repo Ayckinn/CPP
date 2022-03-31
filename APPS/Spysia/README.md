@@ -1,4 +1,4 @@
-# **SPYCIA v1.0 - For Linux**
+# **SPYCIA v2.2 - For Linux**
 
 ### **HOW TO USE IT**
 ```./spysia``` or ```spysia```
@@ -18,6 +18,11 @@ To use ```spysia``` simple command,  you have to copy the file in the following 
 
 ---
 ### **CHANGELOG**
+
+Version 2.2 : April 1st, 2022
+    
+    - Fix bugs
+    - Update source code
 
 Version 2.1 : March 27' 2022
 
