@@ -10,7 +10,6 @@ Display a cross into a square in console
         alt="DEMO"
         style="width:30%">
 </div>
----
 
 ### **RELEASE**
 
