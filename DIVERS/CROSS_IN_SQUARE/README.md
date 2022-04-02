@@ -1,4 +1,4 @@
-# CROSS IN THE SQUARE
+# A CROSS IN A SQUARE
 Display a cross into a square in console
 
 ---
@@ -12,7 +12,6 @@ Display a cross into a square in console
 </div>
 ---
 
----
 ### **RELEASE**
 
 - April 2nd, 2022
