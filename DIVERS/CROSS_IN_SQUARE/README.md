@@ -8,7 +8,7 @@ Display a cross into a square in console
     <img
         src="https://github.com/Ayckinn/CPP/blob/main/DIVERS/CROSS_IN_SQUARE/view.png"
         alt="DEMO"
-        style="width:50%">
+        style="width:30%">
 </div>
 ---
 
