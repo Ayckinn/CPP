@@ -17,6 +17,7 @@ int main()
    for(int child = 0; child < 2; child++)
    {
       std::string name;
+      std::cin >> name;
 
       int love_number = 0;
       for(unsigned int i = 0; i < name.length(); i++)
