@@ -13,11 +13,11 @@ int main()
 	std::cout << "Original char : " << up_case << " - To lower : " << (char)tolower(up_case) << "\n";
 
 	std::cout << "\nOriginal string : " << full_upper << "\n" << "To lower : ";
-	for(int i = 0; i < full_upper.size(); i++)
+	for(unsigned int i = 0; i < full_upper.size(); i++)
 		std::cout << (char)tolower(full_upper[i]);
 
 	std::cout << "\n\nOriginal string : " << full_lower << "\n" << "To upper : ";
-	for(int i = 0; i < full_lower.size(); i++)
+	for(unsigned int i = 0; i < full_lower.size(); i++)
 		std::cout << (char)toupper(full_lower[i]);
 
 	return 0;
