@@ -13,6 +13,8 @@
 
 int main()
 {
+	std::ios::sync_with_stdio(false);  //-- Run the program faster
+
 	std::string user_txt;
 	getline(std::cin, user_txt);
 
