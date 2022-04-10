@@ -4,7 +4,7 @@
       LANGUAGE | C++
          LEVEL | 03
        CHAPTER | 04
-      EXERCICE | 03
+      EXERCICE | 04
          TITLE | INVERSION DE DICTIONNAIRE
  * ===================================================== */
 #include <iostream>
